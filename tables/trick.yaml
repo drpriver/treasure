@@ -1,0 +1,53 @@
+Bait:
+  weight: 1
+  description: This trick is designed to allow the players to be the architects of their own misfortune. An object or item of high value is presented and has a risky means of obtaining it with many consequences for failure. This is similar to defended, but differs in certain key ways. The object must be non-essential and it must be presented in such a way to tempt the victims into bad decisions.
+Boon/Bane:
+  weight: 1
+  description: The most straightforward of the tricks. It is simply a triggered positive or negative effect or event. Different than the trap in that the trigger is not necessarily hidden, the effect can be positive, and is not limited in any way.
+Confusion/Misdirection:
+  weight: 1
+  description: This trick is relatively straightforward, but the results are not! It is defined by creating a situation in which the players think they are dealing with one threat, only to discover it’s not what they originally thought.
+Defended:
+  weight: 1
+  description: This trick is some sort of guardian, either a creature, a situation, a physical structure, or a magical effect. It may or may not be guarding a passage, object, monster or other item, thing or person.
+Puzzle:
+  weight: 1
+  description: This trick presents a conundrum. Fairly straightforward, this is a broad category encompassing many different options. Puzzle tricks are usually structured so that failing the puzzle or making mistakes carry consequences of some sort. Puzzle tricks have flexibility within the game format, in that they may be magical puzzles, abstract puzzles (like sudoku or a cryptoquote) or a physical situation with multiple correct answers. (How do we cross the chasm?) Chess tricks (which are not used or covered in this document) are puzzle tricks.
+Quest:
+  weight: 1
+  description: This trick provides (voluntarily or not) a task or goal for the party.
+Random:
+  weight: 1
+  description: Who knows what will happen? This is the trick version of the Deck of Many Things or the Wand of Wonder. Interacting with this trick causes a variety of non-themed effects to occur.
+Riddle:
+  weight: 1
+  description: A challenge is given, if solved correctly it gives a positive result. Otherwise. . . Riddles are often exactly that - spoken riddles. The riddle trick is a very specific kind of puzzle trick. They are often used to bar passage or provide hints to the location of treasure. See the appendix section on riddles for many examples and advice on how to create your own.
+Secret:
+  weight: 1
+  description: This trick works best in a sandbox game because of the frequency in which the players tread the same ground. Vary rarely or only under certain conditions something special happens.
+Shiny:
+  weight: 1
+  description: This trick looks strange and pretty, but does little else.
+Shop:
+  weight: 1
+  description: This trick is a very specific kind of tool trick. It works very simply, give or sell something - get something in return. This trick is best if it’s located in a fairly distant or inhospitable place or only works intermittently (1/week or less) or is expensive. Otherwise your campaign should be prepared for the results.
+Terraformer:
+  weight: 1
+  description: This trick is a specific form of Boon/Bane. It alters the environment in some way, either making the passable impassable or creating an alteration of some sort to the space.
+Timewaster:
+  weight: 1
+  description: The sole purpose of this trick is either to slow the party down or make them waste time, so that additional wandering monster checks are made.
+Tool:
+  weight: 1
+  description: This trick performs a specific function. Unlike Shop, it does not always require a cost, and unlike Bane/Boon the effect may not be negative or positive - it simply is.
+Transmutation:
+  weight: 1
+  description: This trick is related to Confusion/Misdirection, differing in the fact that the thing is actually a different and unknown situation
+Transport:
+  weight: 1
+  description: This trick is in some way related to locomotion. Transport tricks either transport the party mechanically or magically or allow them to access new and different areas.
+Weirdness:
+  weight: 1
+  description: This is a catchall category for anything that doesn’t fit one of the above categories.
+Shrine:
+  weight: 1

@@ -1,0 +1,73 @@
+3 ; Arcane Dart ;; A
+6 ; Light ;; A
+3 ; Mage Hand ;; A
+3 ; Shake Off ;; A
+3 ; True Strike ;; A
+3 ; Weapon Ward ;; A
+3 ; Expeditious Retreat ;; A
+3 ; Feather Fall ;; A
+3 ; Jump ;; A
+3 ; Mage Armor ;; A
+3 ; Magic Missile ;; A
+3 ; Mend Wounds ;; A
+3 ; Protection from Evil and Outsiders ;; A
+3 ; Sanctuary ;; A
+2 ; Aiding Aura ;; A
+2 ; Lesser Restoration 
+2 ; Levitate 
+2 ; Magic Weapon 
+2 ; See Invisibility
+2 ; Summon Ally
+2 ; Warding Bond
+3 ; Control Flames
+3 ; Heat Water
+3 ; Gust
+3 ; Ray of Frost
+3 ; Shape Water
+3 ; Shocking Grasp
+3 ; Absorb Elements
+3 ; Bouncing Bolt
+3 ; Burning Hands
+3 ; Chromatic Orb
+3 ; Earth Cube
+3 ; Elemental Armor
+3 ; Fog Cloud
+3 ; Ice Slick
+2 ; Chill
+2 ; Gust of Wind
+2 ; Flaming Arrows
+2 ; Heat Metal
+2 ; Scorching Ray
+2 ; Stroke of Lightning
+2 ; Stoneform
+3 ; Bolster
+3 ; Friends
+3 ; Mind Crush
+3 ; Minor Illusion
+3 ; Spook ;; A
+3 ; Charm Person ;; A
+3 ; Disguise Self ;; A
+3 ; Flare ;; A
+3 ; Heroism ;; A
+3 ; Illusionary Armor ;; A
+3 ; Mind Tar ;; A
+3 ; Sleep ;; A
+3 ; Hideous Laughter ;; A
+2 ; Blindness ;; A
+2 ; Blur ;; A
+2 ; Calm Emotions ;; A
+2 ; Hold Person ;; A
+2 ; Mirror Image ;; A
+2 ; Phantom Warrior ;; A
+2 ; Terror ;; A
+3 ; Dragons Breath ;; A
+10; Animal Messenger
+10; Comprehend Language
+10;Detect Magic
+10;Detect Poison
+10;Find Familiar
+10;Identify
+10;Illusory Script
+10;Speak with small mammals
+10;Tenser's Floating Disk
+10;Unseen Servant

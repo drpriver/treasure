@@ -1,0 +1,7 @@
+1;Shadow
+1;Magic Resistance (1-in-6)
+1;Magic Resistance (2-in-6)
+1;Magic Resistance (3-in-6)
+1;Fire Resistance
+1;Lightning Resistance
+1;Cold Resistance

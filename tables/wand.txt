@@ -1,0 +1,7 @@
+1;Wand of Cold;Fires a Cone of Cold, 60 ft cone (6d6 damage). DC 13 save for half damage.
+1;Wand of Fireballs; Fires a ball of fire  which explodes into a 10ft radius (6d6 damage). DC 13 save for half damage.
+1;Wand of Lightning;Fires a Lightning Bolt, 120 feet long, 10 feet wide which bounces off walls (6d6 damage). DC 13 save for half damage.
+1;Wand of Paralyzation;A single creature must DC 13 save or be paralyzed for 1d6 rounds.
+1;Wand of Shrinking and Growing;Target creature doubles in height or shrinks to one half height. This wand may be used repeatedly on the same creature. DC 13 save to resist if target is unwilling.
+1;Staff of Healing; This staff mends the wounds of the touched creature for 2d6 hit points. A creature cannot be healed by a Staff of Healing again until they finish a long rest.
+1;Staff of Striking; This +1 Quarterstaff always deals double damage.

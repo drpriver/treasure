@@ -1,0 +1,17 @@
+1;Dagger
+1;Handaxe
+1;Quarterstaff
+1;Mace
+1;Shortspear
+1;Longspear
+1;Battleaxe
+1;Greataxe
+1;Greatsword
+1;Halberd
+1;Lance
+1;Longsword
+1;Maul
+1;Shortsword
+1;Warhammer
+1;Warpick
+1;Whip

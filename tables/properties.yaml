@@ -1,0 +1,135 @@
+---
+Melee
+...
+Light:
+  weight: 10
+Fire:
+  weight: 1
+Frost:
+  weight: 1
+Lightning:
+  weight: 1
+Holy:
+  weight: 1
+Unholy:
+  weight: 1
+Vicious:
+  weight: 1
+Brutal:
+  weight: 1
+Sundering:
+  weight: 1
+Stunning:
+  weight: 1
+Mageslaying:
+  weight: 1
+Wishes:
+  weight: 1
+Dragonslaying:
+  weight: 1
+Charming:
+  weight: 1
+Life-drain:
+  weight: 1
+Cleaving:
+  weight: 1
+Thundering:
+  weight: 1
+Speed:
+  weight: 1
+Defense:
+  weight: 1
+---
+Ranged
+...
+Fire:
+  weight: 1
+Frost:
+  weight: 1
+Lightning:
+  weight: 1
+Holy:
+  weight: 1
+Unholy:
+  weight: 1
+Vicious:
+  weight: 1
+Brutal:
+  weight: 1
+Sundering:
+  weight: 1
+Stunning:
+  weight: 1
+Mageslaying:
+  weight: 1
+Wishes:
+  weight: 1
+Dragonslaying:
+  weight: 1
+Charming:
+  weight: 1
+Life-drain:
+  weight: 1
+Translocation:
+  weight: 1
+Explosions:
+  weight: 1
+Speed:
+  weight: 1
+---
+Thrown
+...
+Fire:
+  weight: 1
+Frost:
+  weight: 1
+Lightning:
+  weight: 1
+Holy:
+  weight: 1
+Unholy:
+  weight: 1
+Vicious:
+  weight: 1
+Brutal:
+  weight: 1
+Sundering:
+  weight: 1
+Stunning:
+  weight: 1
+Mageslaying:
+  weight: 1
+Wishes:
+  weight: 1
+Dragonslaying:
+  weight: 1
+Charming:
+  weight: 1
+Life-drain:
+  weight: 1
+Translocation:
+  weight: 1
+Explosions:
+  weight: 1
+Speed:
+  weight: 1
+Returning:
+  weight: 8
+---
+Armor
+...
+Shadow:
+  weight: 1
+Magic Resistance (1-in-6):
+  weight: 1
+Magic Resistance (2-in-6):
+  weight: 1
+Magic Resistance (3-in-6):
+  weight: 1
+Fire Resistance:
+  weight: 1
+Lightning Resistance:
+  weight: 1
+Cold Resistance:
+  weight: 1
+

@@ -1,0 +1,3850 @@
+Dungeon Level: 1
+Silver: 400
+Gold: 10
+Total value 50
+
+Silver: 200
+Gold: 10
+Jewels: [2000]
+Total value 2030
+
+Silver: 300
+Total value 30
+
+Silver: 200
+Jewels: [3000]
+Total value 3020
+
+Silver: 300
+Jewels: [700]
+Total value 730
+
+Silver: 500
+Gold: 40
+Jewels: [4000]
+Total value 4090
+
+Silver: 600
+Gems: [50]
+Total value 110
+
+Silver: 400
+Gold: 30
+Total value 70
+
+Silver: 600
+Gold: 30
+Total value 90
+
+Silver: 200
+Jewels: [4000]
+Total value 4020
+
+Silver: 300
+Gems: [10]
+Total value 40
+
+Silver: 200
+Gold: 30
+Jewels: [3000]
+Total value 3050
+
+Silver: 600
+Gold: 50
+Total value 110
+
+Silver: 500
+Total value 50
+
+Silver: 600
+Total value 60
+
+Silver: 300
+Total value 30
+
+Silver: 600
+Total value 60
+
+Silver: 300
+Total value 30
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 300
+Total value 30
+
+Silver: 600
+Total value 60
+
+Silver: 400
+Jewels: [3000, 4000]
+Total value 7040
+
+Silver: 400
+Gems: [1000]
+Total value 1040
+
+Silver: 200
+Gold: 30
+Total value 50
+
+Silver: 600
+Gold: 20
+Gems: [100]
+Total value 180
+
+Silver: 200
+Gold: 50
+Gems: [50]
+Total value 120
+
+Silver: 300
+Total value 30
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 100
+Gold: 30
+Total value 40
+
+Silver: 100
+Gold: 30
+Total value 40
+
+Silver: 200
+Gold: 50
+Magic:  MiscellaneousWeapons
+Total value 70
+
+Silver: 500
+Gold: 40
+Total value 90
+
+Silver: 500
+Total value 50
+
+Silver: 300
+Gold: 20
+Jewels: [4000]
+Total value 4050
+
+Silver: 300
+Gold: 30
+Gems: [1000]
+Magic:  Armor & Shields
+Total value 1060
+
+Silver: 200
+Gems: [100]
+Jewels: [5000]
+Total value 5120
+
+Silver: 500
+Gold: 30
+Total value 80
+
+Silver: 600
+Jewels: [6000, 4000, 6000]
+Total value 16060
+
+Silver: 400
+Gold: 20
+Total value 60
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Total value 50
+
+Silver: 400
+Total value 40
+
+Silver: 300
+Gold: 50
+Total value 80
+
+Silver: 600
+Gold: 60
+Total value 120
+
+Silver: 300
+Gold: 40
+Jewels: [4000]
+Magic:  MisceIlaneousMagic
+Total value 4070
+
+Silver: 100
+Gold: 50
+Jewels: [2000]
+Total value 2060
+
+Silver: 500
+Gems: [10]
+Total value 60
+
+Silver: 600
+Gold: 30
+Gems: [100]
+Total value 190
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 400
+Gold: 20
+Jewels: [6000]
+Total value 6060
+
+Silver: 200
+Gems: [100]
+Total value 120
+
+Silver: 200
+Total value 20
+
+Silver: 500
+Total value 50
+
+Silver: 400
+Jewels: [6000]
+Total value 6040
+
+Silver: 300
+Gold: 60
+Gems: [500]
+Total value 590
+
+Silver: 600
+Gems: [100]
+Total value 160
+
+Silver: 500
+Total value 50
+
+Silver: 400
+Total value 40
+
+Silver: 400
+Gold: 30
+Gems: [1000]
+Total value 1070
+
+Silver: 500
+Total value 50
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Total value 40
+
+Silver: 300
+Gold: 50
+Magic:  Armor & Shields
+Total value 80
+
+Silver: 500
+Total value 50
+
+Silver: 600
+Total value 60
+
+Silver: 300
+Gems: [100]
+Total value 130
+
+Silver: 600
+Total value 60
+
+Silver: 200
+Total value 20
+
+Silver: 200
+Gold: 20
+Gems: [10]
+Total value 50
+
+Silver: 500
+Total value 50
+
+Silver: 100
+Gold: 10
+Gems: [100]
+Total value 120
+
+Silver: 300
+Gold: 40
+Gems: [100]
+Total value 170
+
+Silver: 600
+Gems: [500]
+Jewels: [5000]
+Total value 5560
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 300
+Total value 30
+
+Silver: 500
+Total value 50
+
+Silver: 200
+Gems: [100]
+Total value 120
+
+Silver: 200
+Total value 20
+
+Silver: 400
+Gold: 30
+Gems: [100]
+Jewels: [1000]
+Total value 1170
+
+Silver: 500
+Total value 50
+
+Silver: 100
+Total value 10
+
+Silver: 500
+Total value 50
+
+Silver: 300
+Gold: 10
+Gems: [100]
+Total value 140
+
+Silver: 200
+Gold: 60
+Total value 80
+
+Silver: 600
+Gold: 10
+Total value 70
+
+Silver: 600
+Gold: 60
+Jewels: [7000]
+Total value 7120
+
+Silver: 600
+Gold: 20
+Jewels: [1000]
+Total value 1080
+
+Silver: 500
+Total value 50
+
+Silver: 100
+Gold: 10
+Total value 20
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 100
+Total value 10
+
+Silver: 600
+Gold: 30
+Total value 90
+
+Silver: 200
+Gold: 20
+Total value 40
+
+Silver: 400
+Jewels: [2000]
+Total value 2040
+
+Silver: 100
+Jewels: [1000]
+Total value 1010
+
+Silver: 300
+Gold: 50
+Total value 80
+
+Silver: 500
+Gold: 30
+Total value 80
+
+Silver: 600
+Gold: 30
+Total value 90
+
+Silver: 300
+Gold: 50
+Total value 80
+
+Silver: 200
+Total value 20
+
+Silver: 400
+Total value 40
+
+Silver: 400
+Jewels: [4000]
+Total value 4040
+
+Silver: 300
+Total value 30
+
+Silver: 500
+Gems: [100]
+Jewels: [1000]
+Total value 1150
+
+Silver: 400
+Gems: [100]
+Total value 140
+
+Silver: 300
+Total value 30
+
+Silver: 100
+Total value 10
+
+Silver: 400
+Gold: 40
+Total value 80
+
+Silver: 400
+Gems: [1000]
+Total value 1040
+
+Silver: 100
+Gold: 40
+Jewels: [6000, 1000]
+Total value 7050
+
+Silver: 100
+Gold: 10
+Total value 20
+
+Silver: 200
+Gems: [100]
+Total value 120
+
+Silver: 600
+Gold: 60
+Magic:  MisceIlaneousMagic
+Total value 120
+
+Silver: 100
+Gold: 10
+Total value 20
+
+Silver: 500
+Total value 50
+
+Silver: 600
+Total value 60
+
+Silver: 600
+Total value 60
+
+Silver: 600
+Total value 60
+
+Silver: 600
+Total value 60
+
+Silver: 200
+Jewels: [4000]
+Total value 4020
+
+Silver: 100
+Gold: 20
+Gems: [50]
+Total value 80
+
+Silver: 200
+Total value 20
+
+Silver: 500
+Total value 50
+
+Silver: 200
+Gold: 20
+Total value 40
+
+Silver: 100
+Gems: [100]
+Jewels: [800]
+Total value 910
+
+Silver: 100
+Total value 10
+
+Silver: 200
+Total value 20
+
+Silver: 300
+Gold: 50
+Gems: [100]
+Total value 180
+
+Silver: 100
+Total value 10
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 500
+Gold: 60
+Total value 110
+
+Silver: 200
+Total value 20
+
+Silver: 400
+Total value 40
+
+Silver: 100
+Gold: 50
+Jewels: [1000]
+Total value 1060
+
+Silver: 100
+Total value 10
+
+Silver: 600
+Total value 60
+
+Silver: 100
+Gold: 30
+Gems: [50]
+Total value 90
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Gold: 60
+Jewels: [6000]
+Total value 6110
+
+Silver: 200
+Jewels: [5000]
+Total value 5020
+
+Silver: 300
+Gold: 10
+Total value 40
+
+Silver: 400
+Gold: 50
+Total value 90
+
+Silver: 500
+Gold: 30
+Total value 80
+
+Silver: 200
+Total value 20
+
+Silver: 600
+Gold: 50
+Total value 110
+
+Silver: 500
+Total value 50
+
+Silver: 100
+Total value 10
+
+Silver: 400
+Gold: 40
+Total value 80
+
+Silver: 600
+Gold: 20
+Total value 80
+
+Silver: 500
+Gold: 40
+Total value 90
+
+Silver: 500
+Total value 50
+
+Silver: 100
+Gold: 10
+Total value 20
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 300
+Gold: 10
+Total value 40
+
+Silver: 300
+Total value 30
+
+Silver: 600
+Gold: 10
+Gems: [10]
+Total value 80
+
+Silver: 500
+Gold: 30
+Total value 80
+
+Silver: 200
+Gold: 50
+Total value 70
+
+Silver: 200
+Total value 20
+
+Silver: 500
+Total value 50
+
+Silver: 100
+Total value 10
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 400
+Total value 40
+
+Silver: 400
+Total value 40
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Total value 40
+
+Silver: 300
+Total value 30
+
+Silver: 200
+Gold: 20
+Total value 40
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 400
+Total value 40
+
+Silver: 300
+Total value 30
+
+Silver: 600
+Total value 60
+
+Silver: 300
+Gold: 20
+Gems: [100]
+Jewels: [3000]
+Total value 3150
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 200
+Gold: 10
+Jewels: [2000]
+Total value 2030
+
+Silver: 400
+Total value 40
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Gold: 40
+Total value 90
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 500
+Gold: 30
+Total value 80
+
+Silver: 600
+Gold: 60
+Jewels: [3000]
+Total value 3120
+
+Silver: 400
+Gold: 20
+Total value 60
+
+Silver: 600
+Total value 60
+
+Silver: 200
+Total value 20
+
+Silver: 500
+Total value 50
+
+Silver: 200
+Gold: 20
+Total value 40
+
+Silver: 500
+Gold: 60
+Jewels: [2000]
+Total value 2110
+
+Silver: 500
+Gold: 60
+Total value 110
+
+Silver: 500
+Gold: 40
+Magic:  Rods, Staves & Wands
+Total value 90
+
+Silver: 500
+Gold: 10
+Total value 60
+
+Silver: 200
+Total value 20
+
+Silver: 100
+Total value 10
+
+Silver: 500
+Gold: 60
+Jewels: [6000]
+Total value 6110
+
+Silver: 200
+Gems: [500, 1000]
+Total value 1520
+
+Silver: 600
+Gold: 10
+Total value 70
+
+Silver: 100
+Total value 10
+
+Silver: 200
+Total value 20
+
+Silver: 300
+Gold: 20
+Jewels: [4000]
+Total value 4050
+
+Silver: 100
+Gold: 10
+Total value 20
+
+Silver: 200
+Total value 20
+
+Silver: 600
+Gold: 60
+Total value 120
+
+Silver: 100
+Gold: 30
+Total value 40
+
+Silver: 600
+Total value 60
+
+Silver: 300
+Total value 30
+
+Silver: 600
+Gold: 60
+Total value 120
+
+Silver: 300
+Total value 30
+
+Silver: 500
+Gold: 20
+Total value 70
+
+Silver: 100
+Total value 10
+
+Silver: 400
+Gold: 50
+Total value 90
+
+Silver: 300
+Total value 30
+
+Silver: 300
+Gems: [100]
+Total value 130
+
+Silver: 100
+Total value 10
+
+Silver: 400
+Gold: 40
+Total value 80
+
+Silver: 100
+Total value 10
+
+Silver: 300
+Gold: 10
+Total value 40
+
+Silver: 300
+Total value 30
+
+Silver: 100
+Gold: 30
+Gems: [100]
+Jewels: [9000]
+Total value 9140
+
+Silver: 300
+Gems: [100]
+Total value 130
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Gold: 40
+Total value 80
+
+Silver: 600
+Total value 60
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Gold: 30
+Jewels: [1000]
+Total value 1080
+
+Silver: 100
+Total value 10
+
+Silver: 500
+Total value 50
+
+Silver: 300
+Gold: 60
+Gems: [100]
+Jewels: [3000, 4000]
+Total value 7190
+
+Silver: 200
+Jewels: [2000]
+Total value 2020
+
+Silver: 100
+Gold: 50
+Gems: [1000]
+Total value 1060
+
+Silver: 500
+Jewels: [2000]
+Total value 2050
+
+Silver: 100
+Jewels: [1300, 5000, 1000]
+Total value 7310
+
+Silver: 600
+Gold: 30
+Magic:  MiscellaneousWeapons
+Total value 90
+
+Silver: 600
+Total value 60
+
+Silver: 100
+Gold: 10
+Total value 20
+
+Silver: 100
+Gold: 50
+Total value 60
+
+Silver: 200
+Gold: 20
+Total value 40
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 300
+Gold: 10
+Jewels: [6000, 5000]
+Total value 11040
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Gold: 10
+Total value 60
+
+Silver: 300
+Total value 30
+
+Silver: 200
+Total value 20
+
+Silver: 400
+Magic:  MisceIlaneousMagic
+Total value 40
+
+Silver: 600
+Gold: 50
+Total value 110
+
+Silver: 200
+Gold: 40
+Jewels: [2000]
+Total value 2060
+
+Silver: 200
+Gold: 10
+Jewels: [1100]
+Magic:  MiscellaneousMagic
+Total value 1130
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 200
+Gold: 20
+Jewels: [1500]
+Total value 1540
+
+Silver: 600
+Jewels: [2000]
+Total value 2060
+
+Silver: 600
+Gold: 20
+Total value 80
+
+Silver: 500
+Total value 50
+
+Silver: 300
+Jewels: [1000]
+Total value 1030
+
+Silver: 300
+Total value 30
+
+Silver: 100
+Gold: 10
+Total value 20
+
+Silver: 400
+Total value 40
+
+Silver: 200
+Gold: 10
+Total value 30
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Gems: [50]
+Total value 90
+
+Silver: 300
+Gold: 30
+Total value 60
+
+Silver: 600
+Gold: 20
+Total value 80
+
+Silver: 400
+Gold: 40
+Jewels: [900]
+Total value 980
+
+Silver: 600
+Gold: 10
+Total value 70
+
+Silver: 300
+Gold: 20
+Total value 50
+
+Silver: 100
+Gold: 50
+Magic:  MiscellaneousMagic
+Total value 60
+
+Silver: 300
+Total value 30
+
+Silver: 100
+Gold: 60
+Total value 70
+
+Silver: 600
+Gold: 40
+Total value 100
+
+Silver: 200
+Gold: 30
+Jewels: [4000]
+Total value 4050
+
+Silver: 600
+Total value 60
+
+Silver: 600
+Gold: 50
+Gems: [100]
+Total value 210
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Gold: 20
+Jewels: [9000]
+Total value 9070
+
+Silver: 500
+Gold: 50
+Gems: [1000]
+Jewels: [1100]
+Total value 2200
+
+Silver: 200
+Magic:  Rings
+Total value 20
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 600
+Gold: 40
+Total value 100
+
+Silver: 200
+Total value 20
+
+Silver: 500
+Gems: [1000, 100]
+Total value 1150
+
+Silver: 400
+Total value 40
+
+Silver: 400
+Total value 40
+
+Silver: 400
+Gold: 20
+Total value 60
+
+Silver: 500
+Gems: [100]
+Total value 150
+
+Silver: 100
+Total value 10
+
+Silver: 200
+Gold: 10
+Jewels: [700]
+Total value 730
+
+Silver: 500
+Total value 50
+
+Silver: 300
+Gold: 60
+Total value 90
+
+Silver: 500
+Gold: 60
+Gems: [100]
+Total value 210
+
+Silver: 300
+Gold: 30
+Jewels: [2000]
+Total value 2060
+
+Silver: 300
+Gold: 20
+Total value 50
+
+Silver: 500
+Total value 50
+
+Silver: 100
+Total value 10
+
+Silver: 300
+Gold: 20
+Jewels: [5000]
+Total value 5050
+
+Silver: 500
+Gold: 50
+Total value 100
+
+Silver: 400
+Total value 40
+
+Silver: 300
+Total value 30
+
+Silver: 100
+Total value 10
+
+Silver: 300
+Gems: [100]
+Total value 130
+
+Silver: 200
+Gold: 40
+Gems: [500]
+Jewels: [3000]
+Total value 3560
+
+Silver: 500
+Gold: 10
+Gems: [50]
+Total value 110
+
+Silver: 200
+Total value 20
+
+Silver: 600
+Gold: 40
+Jewels: [3000]
+Total value 3100
+
+Silver: 300
+Jewels: [10000]
+Total value 10030
+
+Silver: 100
+Jewels: [1300]
+Total value 1310
+
+Silver: 500
+Total value 50
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 400
+Total value 40
+
+Silver: 200
+Total value 20
+
+Silver: 100
+Total value 10
+
+Silver: 100
+Total value 10
+
+Silver: 100
+Gold: 60
+Total value 70
+
+Silver: 400
+Gold: 20
+Total value 60
+
+Silver: 400
+Gold: 50
+Total value 90
+
+Silver: 100
+Gold: 10
+Total value 20
+
+Silver: 500
+Total value 50
+
+Silver: 300
+Gold: 40
+Gems: [100]
+Jewels: [2000]
+Total value 2170
+
+Silver: 300
+Total value 30
+
+Silver: 600
+Gold: 50
+Total value 110
+
+Silver: 300
+Gold: 60
+Jewels: [900]
+Total value 990
+
+Silver: 300
+Gold: 30
+Jewels: [3000]
+Magic:  Rods, Staves & Wands
+Total value 3060
+
+Silver: 200
+Gold: 10
+Total value 30
+
+Silver: 400
+Gold: 30
+Jewels: [3000]
+Total value 3070
+
+Silver: 100
+Gold: 60
+Total value 70
+
+Silver: 400
+Gold: 10
+Gems: [500]
+Total value 550
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Gold: 30
+Total value 70
+
+Silver: 100
+Total value 10
+
+Silver: 300
+Total value 30
+
+Silver: 300
+Total value 30
+
+Silver: 600
+Gold: 10
+Total value 70
+
+Silver: 600
+Gold: 40
+Gems: [100]
+Total value 200
+
+Silver: 100
+Gems: [100]
+Total value 110
+
+Silver: 500
+Total value 50
+
+Silver: 400
+Gold: 20
+Total value 60
+
+Silver: 500
+Total value 50
+
+Silver: 100
+Total value 10
+
+Silver: 600
+Gems: [100]
+Total value 160
+
+Silver: 200
+Jewels: [3000]
+Total value 3020
+
+Silver: 300
+Gold: 40
+Gems: [100, 100]
+Total value 270
+
+Silver: 100
+Total value 10
+
+Silver: 100
+Total value 10
+
+Silver: 200
+Gold: 30
+Total value 50
+
+Silver: 400
+Gold: 10
+Total value 50
+
+Silver: 300
+Total value 30
+
+Silver: 600
+Gems: [100]
+Total value 160
+
+Silver: 100
+Jewels: [10000]
+Total value 10010
+
+Silver: 300
+Gold: 40
+Gems: [100]
+Total value 170
+
+Silver: 300
+Magic:  Armor & Shields
+Total value 30
+
+Silver: 100
+Total value 10
+
+Silver: 300
+Gold: 30
+Gems: [10]
+Jewels: [5000]
+Total value 5070
+
+Silver: 400
+Gold: 40
+Total value 80
+
+Silver: 600
+Gold: 30
+Gems: [10]
+Total value 100
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Gold: 20
+Jewels: [1100]
+Total value 1160
+
+Silver: 200
+Total value 20
+
+Silver: 500
+Gold: 40
+Total value 90
+
+Silver: 500
+Total value 50
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Gold: 20
+Total value 60
+
+Silver: 600
+Gold: 60
+Gems: [100]
+Total value 220
+
+Silver: 300
+Gems: [100]
+Jewels: [2000]
+Total value 2130
+
+Silver: 300
+Gold: 30
+Jewels: [6000]
+Total value 6060
+
+Silver: 200
+Gems: [100]
+Total value 120
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 400
+Gold: 50
+Total value 90
+
+Silver: 500
+Gold: 30
+Gems: [1000]
+Total value 1080
+
+Silver: 600
+Jewels: [900]
+Total value 960
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Gold: 30
+Gems: [500]
+Total value 580
+
+Silver: 400
+Gold: 50
+Jewels: [2000]
+Total value 2090
+
+Silver: 400
+Total value 40
+
+Silver: 100
+Total value 10
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Total value 50
+
+Silver: 300
+Gold: 30
+Total value 60
+
+Silver: 600
+Total value 60
+
+Silver: 200
+Total value 20
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 100
+Total value 10
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 300
+Gold: 50
+Total value 80
+
+Silver: 300
+Gold: 50
+Total value 80
+
+Silver: 600
+Gold: 60
+Total value 120
+
+Silver: 300
+Jewels: [3000]
+Total value 3030
+
+Silver: 400
+Jewels: [5000]
+Total value 5040
+
+Silver: 300
+Gold: 60
+Total value 90
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 100
+Total value 10
+
+Silver: 200
+Total value 20
+
+Silver: 600
+Gold: 20
+Total value 80
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Jewels: [6000]
+Total value 6040
+
+Silver: 300
+Gold: 50
+Magic:  MiscellaneousWeapons
+Total value 80
+
+Silver: 300
+Total value 30
+
+Silver: 500
+Total value 50
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 500
+Gems: [1000]
+Total value 1050
+
+Silver: 500
+Gold: 30
+Total value 80
+
+Silver: 100
+Gems: [100]
+Total value 110
+
+Silver: 400
+Gold: 10
+Total value 50
+
+Silver: 500
+Gold: 40
+Jewels: [4000]
+Total value 4090
+
+Silver: 500
+Gems: [100]
+Total value 150
+
+Silver: 100
+Gold: 50
+Total value 60
+
+Silver: 100
+Gold: 50
+Gems: [100]
+Total value 160
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 600
+Total value 60
+
+Silver: 400
+Jewels: [3000]
+Total value 3040
+
+Silver: 100
+Gems: [100]
+Jewels: [1000]
+Total value 1110
+
+Silver: 200
+Total value 20
+
+Silver: 500
+Gold: 60
+Total value 110
+
+Silver: 300
+Total value 30
+
+Silver: 200
+Gold: 20
+Jewels: [2000]
+Total value 2040
+
+Silver: 200
+Total value 20
+
+Silver: 400
+Total value 40
+
+Silver: 300
+Gold: 20
+Gems: [10]
+Jewels: [1000]
+Total value 1060
+
+Silver: 600
+Gems: [500]
+Jewels: [9000]
+Magic:  MiscellaneousWeapons
+Total value 9560
+
+Silver: 600
+Gold: 30
+Total value 90
+
+Silver: 200
+Gold: 50
+Total value 70
+
+Silver: 100
+Gold: 30
+Total value 40
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 100
+Gold: 20
+Total value 30
+
+Silver: 100
+Total value 10
+
+Silver: 600
+Total value 60
+
+Silver: 600
+Jewels: [10000]
+Total value 10060
+
+Silver: 600
+Total value 60
+
+Silver: 400
+Total value 40
+
+Silver: 100
+Total value 10
+
+Silver: 200
+Gold: 50
+Total value 70
+
+Silver: 400
+Magic:  Rings
+Total value 40
+
+Silver: 400
+Gold: 30
+Gems: [100]
+Total value 170
+
+Silver: 600
+Gold: 10
+Total value 70
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Total value 50
+
+Silver: 400
+Total value 40
+
+Silver: 300
+Total value 30
+
+Silver: 300
+Gold: 10
+Total value 40
+
+Silver: 600
+Total value 60
+
+Silver: 300
+Total value 30
+
+Silver: 300
+Total value 30
+
+Silver: 600
+Gold: 10
+Total value 70
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Gold: 20
+Gems: [100]
+Total value 160
+
+Silver: 200
+Gold: 40
+Jewels: [900]
+Total value 960
+
+Silver: 500
+Total value 50
+
+Silver: 200
+Total value 20
+
+Silver: 600
+Gold: 50
+Total value 110
+
+Silver: 300
+Gold: 10
+Total value 40
+
+Silver: 100
+Total value 10
+
+Silver: 100
+Jewels: [3000]
+Total value 3010
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 300
+Total value 30
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Total value 40
+
+Silver: 200
+Total value 20
+
+Silver: 600
+Gold: 30
+Total value 90
+
+Silver: 600
+Total value 60
+
+Silver: 200
+Gold: 10
+Jewels: [10000, 6000]
+Total value 16030
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Gold: 20
+Jewels: [6000]
+Total value 6070
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 100
+Total value 10
+
+Silver: 500
+Gold: 30
+Total value 80
+
+Silver: 600
+Gold: 40
+Jewels: [700]
+Total value 800
+
+Silver: 300
+Total value 30
+
+Silver: 300
+Total value 30
+
+Silver: 600
+Jewels: [8000]
+Total value 8060
+
+Silver: 100
+Total value 10
+
+Silver: 600
+Total value 60
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 600
+Gems: [500, 100]
+Jewels: [1200, 8000]
+Total value 9860
+
+Silver: 100
+Gold: 50
+Gems: [100]
+Jewels: [6000, 2000]
+Total value 8160
+
+Silver: 300
+Gold: 10
+Total value 40
+
+Silver: 500
+Gems: [50, 100]
+Total value 200
+
+Silver: 600
+Total value 60
+
+Silver: 200
+Total value 20
+
+Silver: 500
+Gold: 50
+Total value 100
+
+Silver: 400
+Gems: [500]
+Jewels: [1000]
+Total value 1540
+
+Silver: 100
+Gems: [100]
+Total value 110
+
+Silver: 200
+Gold: 50
+Total value 70
+
+Silver: 300
+Total value 30
+
+Silver: 500
+Total value 50
+
+Silver: 300
+Gold: 60
+Total value 90
+
+Silver: 400
+Total value 40
+
+Silver: 400
+Jewels: [3000]
+Total value 3040
+
+Silver: 200
+Total value 20
+
+Silver: 100
+Gold: 10
+Total value 20
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Total value 40
+
+Silver: 500
+Gold: 40
+Total value 90
+
+Silver: 600
+Gold: 30
+Jewels: [5000]
+Total value 5090
+
+Silver: 500
+Total value 50
+
+Silver: 300
+Gold: 50
+Total value 80
+
+Silver: 600
+Jewels: [1000, 7000]
+Total value 8060
+
+Silver: 100
+Jewels: [3000]
+Total value 3010
+
+Silver: 100
+Gold: 50
+Total value 60
+
+Silver: 500
+Gold: 50
+Total value 100
+
+Silver: 400
+Gold: 20
+Total value 60
+
+Silver: 500
+Gold: 30
+Total value 80
+
+Silver: 100
+Gold: 20
+Total value 30
+
+Silver: 400
+Gold: 10
+Jewels: [4000]
+Total value 4050
+
+Silver: 300
+Gold: 50
+Total value 80
+
+Silver: 200
+Total value 20
+
+Silver: 500
+Gold: 30
+Total value 80
+
+Silver: 400
+Total value 40
+
+Silver: 300
+Gold: 50
+Total value 80
+
+Silver: 400
+Gold: 50
+Total value 90
+
+Silver: 500
+Total value 50
+
+Silver: 100
+Total value 10
+
+Silver: 300
+Jewels: [4000]
+Total value 4030
+
+Silver: 600
+Total value 60
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 100
+Gold: 30
+Gems: [500]
+Jewels: [1300]
+Total value 1840
+
+Silver: 300
+Gold: 50
+Total value 80
+
+Silver: 600
+Gold: 10
+Gems: [10]
+Total value 80
+
+Silver: 200
+Gold: 10
+Total value 30
+
+Silver: 100
+Gold: 20
+Total value 30
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Gold: 60
+Total value 110
+
+Silver: 100
+Total value 10
+
+Silver: 600
+Gold: 20
+Total value 80
+
+Silver: 100
+Gold: 20
+Total value 30
+
+Silver: 500
+Gold: 20
+Total value 70
+
+Silver: 600
+Gold: 50
+Gems: [50]
+Total value 160
+
+Silver: 600
+Total value 60
+
+Silver: 600
+Gold: 20
+Total value 80
+
+Silver: 300
+Jewels: [1300]
+Total value 1330
+
+Silver: 600
+Total value 60
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Magic:  Scrolls
+Total value 50
+
+Silver: 600
+Gold: 10
+Total value 70
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Total value 50
+
+Silver: 300
+Total value 30
+
+Silver: 200
+Gold: 40
+Gems: [500, 100]
+Total value 660
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Gold: 20
+Total value 60
+
+Silver: 400
+Gold: 20
+Total value 60
+
+Silver: 400
+Gems: [100]
+Total value 140
+
+Silver: 400
+Gold: 50
+Total value 90
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Gems: [100]
+Jewels: [5000]
+Total value 5150
+
+Silver: 500
+Gold: 60
+Total value 110
+
+Silver: 100
+Gold: 50
+Total value 60
+
+Silver: 600
+Gold: 30
+Jewels: [600]
+Total value 690
+
+Silver: 500
+Gems: [500]
+Total value 550
+
+Silver: 300
+Gold: 40
+Total value 70
+
+Silver: 500
+Gold: 60
+Magic:  Swords
+Total value 110
+
+Silver: 300
+Gold: 30
+Total value 60
+
+Silver: 200
+Gold: 10
+Jewels: [4000]
+Total value 4030
+
+Silver: 400
+Gold: 10
+Total value 50
+
+Silver: 600
+Gold: 40
+Total value 100
+
+Silver: 200
+Gold: 20
+Total value 40
+
+Silver: 200
+Gold: 30
+Jewels: [1000]
+Total value 1050
+
+Silver: 100
+Gems: [100]
+Total value 110
+
+Silver: 500
+Gold: 10
+Total value 60
+
+Silver: 100
+Gold: 20
+Jewels: [1000]
+Magic:  Scrolls
+Total value 1030
+
+Silver: 100
+Total value 10
+
+Silver: 100
+Gold: 50
+Total value 60
+
+Silver: 500
+Gold: 20
+Total value 70
+
+Silver: 300
+Gold: 10
+Gems: [100]
+Total value 140
+
+Silver: 500
+Gold: 10
+Total value 60
+
+Silver: 200
+Total value 20
+
+Silver: 100
+Gold: 50
+Total value 60
+
+Silver: 600
+Gems: [500]
+Jewels: [3000, 5000]
+Magic:  MiscellaneousWeapons
+Total value 8560
+
+Silver: 400
+Total value 40
+
+Silver: 100
+Gold: 60
+Total value 70
+
+Silver: 200
+Total value 20
+
+Silver: 400
+Gold: 20
+Total value 60
+
+Silver: 500
+Total value 50
+
+Silver: 200
+Total value 20
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 500
+Total value 50
+
+Silver: 600
+Gold: 40
+Gems: [100]
+Total value 200
+
+Silver: 200
+Gems: [100]
+Total value 120
+
+Silver: 100
+Total value 10
+
+Silver: 600
+Gold: 60
+Total value 120
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Gold: 20
+Total value 60
+
+Silver: 100
+Gold: 20
+Gems: [50]
+Magic:  Potions
+Total value 80
+
+Silver: 400
+Gold: 10
+Jewels: [5000]
+Total value 5050
+
+Silver: 200
+Total value 20
+
+Silver: 100
+Total value 10
+
+Silver: 600
+Gems: [100]
+Total value 160
+
+Silver: 100
+Gold: 10
+Total value 20
+
+Silver: 400
+Total value 40
+
+Silver: 300
+Jewels: [5000]
+Total value 5030
+
+Silver: 300
+Total value 30
+
+Silver: 600
+Gold: 30
+Jewels: [400]
+Total value 490
+
+Silver: 100
+Jewels: [8000]
+Total value 8010
+
+Silver: 200
+Gems: [50, 100, 50]
+Total value 220
+
+Silver: 600
+Gold: 40
+Total value 100
+
+Silver: 600
+Magic:  MiscellaneousWeapons
+Total value 60
+
+Silver: 300
+Gold: 60
+Gems: [100]
+Total value 190
+
+Silver: 500
+Total value 50
+
+Silver: 200
+Total value 20
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Gold: 10
+Jewels: [8000]
+Total value 8060
+
+Silver: 200
+Total value 20
+
+Silver: 100
+Gems: [100]
+Total value 110
+
+Silver: 500
+Gold: 40
+Total value 90
+
+Silver: 600
+Gold: 10
+Total value 70
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 500
+Gold: 50
+Magic:  Potions
+Total value 100
+
+Silver: 100
+Total value 10
+
+Silver: 200
+Total value 20
+
+Silver: 200
+Total value 20
+
+Silver: 100
+Gold: 60
+Total value 70
+
+Silver: 400
+Gold: 40
+Jewels: [3000]
+Total value 3080
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Total value 50
+
+Silver: 200
+Jewels: [7000]
+Total value 7020
+
+Silver: 100
+Gold: 50
+Total value 60
+
+Silver: 100
+Gold: 20
+Total value 30
+
+Silver: 100
+Total value 10
+
+Silver: 600
+Total value 60
+
+Silver: 600
+Total value 60
+
+Silver: 400
+Gold: 50
+Jewels: [3000]
+Total value 3090
+
+Silver: 600
+Gold: 10
+Gems: [50, 100]
+Total value 220
+
+Silver: 500
+Total value 50
+
+Silver: 100
+Gold: 20
+Jewels: [6000]
+Total value 6030
+
+Silver: 500
+Total value 50
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Total value 40
+
+Silver: 100
+Gold: 50
+Total value 60
+
+Silver: 300
+Gold: 40
+Gems: [500]
+Total value 570
+
+Silver: 600
+Total value 60
+
+Silver: 100
+Gold: 60
+Gems: [500]
+Total value 570
+
+Silver: 400
+Gold: 30
+Total value 70
+
+Silver: 400
+Total value 40
+
+Silver: 600
+Jewels: [1000]
+Total value 1060
+
+Silver: 300
+Gems: [100, 100]
+Total value 230
+
+Silver: 600
+Gold: 50
+Jewels: [3000]
+Total value 3110
+
+Silver: 500
+Gold: 60
+Total value 110
+
+Silver: 600
+Total value 60
+
+Silver: 600
+Gold: 40
+Gems: [500]
+Total value 600
+
+Silver: 500
+Gold: 40
+Total value 90
+
+Silver: 300
+Jewels: [1000]
+Total value 1030
+
+Silver: 400
+Total value 40
+
+Silver: 400
+Jewels: [9000]
+Total value 9040
+
+Silver: 600
+Gold: 10
+Total value 70
+
+Silver: 400
+Gold: 20
+Total value 60
+
+Silver: 400
+Total value 40
+
+Silver: 200
+Total value 20
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 300
+Total value 30
+
+Silver: 500
+Gold: 50
+Total value 100
+
+Silver: 300
+Gold: 30
+Total value 60
+
+Silver: 600
+Gold: 50
+Gems: [100]
+Total value 210
+
+Silver: 400
+Gold: 10
+Jewels: [6000]
+Total value 6050
+
+Silver: 100
+Total value 10
+
+Silver: 300
+Gold: 50
+Gems: [50, 50]
+Total value 180
+
+Silver: 300
+Gems: [10]
+Jewels: [9000]
+Total value 9040
+
+Silver: 500
+Jewels: [4000]
+Total value 4050
+
+Silver: 500
+Jewels: [600]
+Total value 650
+
+Silver: 100
+Gold: 30
+Total value 40
+
+Silver: 600
+Gold: 20
+Gems: [100]
+Total value 180
+
+Silver: 300
+Total value 30
+
+Silver: 300
+Total value 30
+
+Silver: 100
+Gold: 50
+Total value 60
+
+Silver: 500
+Gold: 30
+Jewels: [4000]
+Total value 4080
+
+Silver: 200
+Total value 20
+
+Silver: 100
+Total value 10
+
+Silver: 500
+Jewels: [9000]
+Total value 9050
+
+Silver: 300
+Total value 30
+
+Silver: 100
+Gold: 20
+Total value 30
+
+Silver: 500
+Gems: [100, 100]
+Jewels: [3000]
+Total value 3250
+
+Silver: 400
+Gold: 40
+Total value 80
+
+Silver: 200
+Gold: 10
+Total value 30
+
+Silver: 300
+Gold: 60
+Jewels: [9000]
+Total value 9090
+
+Silver: 600
+Total value 60
+
+Silver: 400
+Total value 40
+
+Silver: 200
+Gems: [10, 500]
+Total value 530
+
+Silver: 600
+Gold: 60
+Gems: [1000]
+Total value 1120
+
+Silver: 500
+Gold: 40
+Total value 90
+
+Silver: 200
+Gold: 60
+Total value 80
+
+Silver: 500
+Gold: 50
+Magic:  MiscellaneousWeapons
+Total value 100
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Gold: 50
+Gems: [100]
+Total value 200
+
+Silver: 200
+Gems: [10, 100]
+Total value 130
+
+Silver: 500
+Gold: 60
+Total value 110
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 400
+Total value 40
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Total value 50
+
+Silver: 200
+Total value 20
+
+Silver: 300
+Gold: 60
+Total value 90
+
+Silver: 400
+Total value 40
+
+Silver: 100
+Total value 10
+
+Silver: 500
+Gold: 20
+Total value 70
+
+Silver: 200
+Total value 20
+
+Silver: 200
+Gold: 60
+Total value 80
+
+Silver: 300
+Gold: 30
+Total value 60
+
+Silver: 100
+Gold: 50
+Total value 60
+
+Silver: 100
+Total value 10
+
+Silver: 400
+Jewels: [4000]
+Total value 4040
+
+Silver: 400
+Gold: 50
+Total value 90
+
+Silver: 400
+Jewels: [1000]
+Total value 1040
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Total value 40
+
+Silver: 200
+Total value 20
+
+Silver: 400
+Total value 40
+
+Silver: 100
+Total value 10
+
+Silver: 500
+Gold: 10
+Total value 60
+
+Silver: 100
+Gold: 20
+Total value 30
+
+Silver: 400
+Gold: 30
+Gems: [1000]
+Total value 1070
+
+Silver: 200
+Gold: 10
+Jewels: [2000]
+Total value 2030
+
+Silver: 200
+Gold: 40
+Jewels: [1000]
+Total value 1060
+
+Silver: 600
+Gems: [100]
+Total value 160
+
+Silver: 500
+Gold: 20
+Total value 70
+
+Silver: 100
+Gold: 60
+Total value 70
+
+Silver: 200
+Gold: 30
+Magic:  Potions
+Total value 50
+
+Silver: 600
+Total value 60
+
+Silver: 200
+Total value 20
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Gold: 10
+Total value 60
+
+Silver: 100
+Gold: 30
+Total value 40
+
+Silver: 200
+Total value 20
+
+Silver: 100
+Magic:  Armor & Shields
+Total value 10
+
+Silver: 300
+Jewels: [4000]
+Total value 4030
+
+Silver: 600
+Total value 60
+
+Silver: 300
+Gold: 60
+Total value 90
+
+Silver: 400
+Total value 40
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Gold: 10
+Total value 60
+
+Silver: 100
+Gold: 60
+Magic:  MiscellaneousMagic
+Total value 70
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 300
+Gold: 10
+Gems: [100]
+Magic:  MiscellaneousWeapons
+Total value 140
+
+Silver: 600
+Gold: 30
+Total value 90
+
+Silver: 300
+Gold: 30
+Total value 60
+
+Silver: 400
+Gold: 40
+Total value 80
+
+Silver: 400
+Total value 40
+
+Silver: 600
+Gold: 20
+Jewels: [6000]
+Total value 6080
+
+Silver: 200
+Total value 20
+
+Silver: 600
+Gold: 30
+Jewels: [6000]
+Total value 6090
+
+Silver: 200
+Gold: 30
+Gems: [100]
+Jewels: [1000]
+Total value 1150
+
+Silver: 600
+Gems: [100]
+Total value 160
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 400
+Gems: [1000]
+Total value 1040
+
+Silver: 100
+Gold: 10
+Total value 20
+
+Silver: 100
+Total value 10
+
+Silver: 200
+Gold: 20
+Total value 40
+
+Silver: 300
+Gold: 30
+Gems: [100]
+Total value 160
+
+Silver: 600
+Jewels: [5000]
+Total value 5060
+
+Silver: 200
+Gems: [100]
+Total value 120
+
+Silver: 100
+Gold: 50
+Gems: [500]
+Total value 560
+
+Silver: 600
+Gold: 40
+Jewels: [1000]
+Total value 1100
+
+Silver: 100
+Total value 10
+
+Silver: 400
+Total value 40
+
+Silver: 400
+Gold: 40
+Total value 80
+
+Silver: 300
+Total value 30
+
+Silver: 300
+Total value 30
+
+Silver: 200
+Total value 20
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Total value 40
+
+Silver: 600
+Gold: 40
+Total value 100
+
+Silver: 100
+Total value 10
+
+Silver: 100
+Gold: 30
+Total value 40
+
+Silver: 400
+Total value 40
+
+Silver: 600
+Gold: 50
+Total value 110
+
+Silver: 200
+Gold: 30
+Magic:  Potions
+Total value 50
+
+Silver: 500
+Gems: [50]
+Total value 100
+
+Silver: 300
+Gold: 60
+Total value 90
+
+Silver: 300
+Gold: 20
+Total value 50
+
+Silver: 600
+Gold: 30
+Total value 90
+
+Silver: 500
+Total value 50
+
+Silver: 300
+Total value 30
+
+Silver: 100
+Gold: 30
+Total value 40
+
+Silver: 100
+Total value 10
+
+Silver: 600
+Total value 60
+
+Silver: 200
+Gold: 10
+Jewels: [6000]
+Total value 6030
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Gold: 10
+Jewels: [5000]
+Total value 5060
+
+Silver: 200
+Gold: 20
+Magic:  Potions
+Total value 40
+
+Silver: 600
+Gems: [500]
+Total value 560
+
+Silver: 400
+Jewels: [4000]
+Total value 4040
+
+Silver: 400
+Gems: [100]
+Total value 140
+
+Silver: 600
+Gems: [100]
+Total value 160
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 500
+Jewels: [2000]
+Total value 2050
+
+Silver: 500
+Gold: 10
+Gems: [100]
+Magic:  MisceIlaneousMagic
+Total value 160
+
+Silver: 400
+Total value 40
+
+Silver: 200
+Gold: 30
+Gems: [50, 1000]
+Total value 1100
+
+Silver: 500
+Total value 50
+
+Silver: 200
+Total value 20
+
+Silver: 200
+Jewels: [2000]
+Total value 2020
+
+Silver: 400
+Total value 40
+
+Silver: 300
+Total value 30
+
+Silver: 500
+Gems: [1000]
+Total value 1050
+
+Silver: 300
+Gold: 50
+Total value 80
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Gold: 30
+Gems: [10]
+Total value 90
+
+Silver: 600
+Gold: 40
+Total value 100
+
+Silver: 100
+Gold: 20
+Gems: [100]
+Total value 130
+
+Silver: 200
+Gold: 60
+Total value 80
+
+Silver: 100
+Total value 10
+
+Silver: 400
+Total value 40
+
+Silver: 300
+Gold: 50
+Total value 80
+
+Silver: 300
+Total value 30
+
+Silver: 600
+Gold: 60
+Gems: [100]
+Jewels: [4000]
+Total value 4220
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 100
+Total value 10
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Gold: 10
+Total value 60
+
+Silver: 600
+Gems: [1000]
+Total value 1060
+
+Silver: 100
+Gold: 30
+Total value 40
+
+Silver: 500
+Gold: 40
+Gems: [50]
+Jewels: [900]
+Total value 1040
+
+Silver: 300
+Gold: 40
+Jewels: [4000]
+Total value 4070
+
+Silver: 300
+Gold: 40
+Gems: [100]
+Total value 170
+
+Silver: 100
+Gold: 30
+Total value 40
+
+Silver: 600
+Gems: [500]
+Total value 560
+
+Silver: 400
+Jewels: [4000]
+Total value 4040
+
+Silver: 600
+Total value 60
+
+Silver: 100
+Gold: 20
+Total value 30
+
+Silver: 400
+Total value 40
+
+Silver: 100
+Total value 10
+
+Silver: 300
+Gold: 40
+Gems: [100]
+Total value 170
+
+Silver: 600
+Total value 60
+
+Silver: 600
+Gems: [10]
+Total value 70
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 100
+Gold: 30
+Total value 40
+
+Silver: 100
+Total value 10
+
+Silver: 300
+Gems: [100]
+Total value 130
+
+Silver: 400
+Gold: 10
+Total value 50
+
+Silver: 200
+Magic:  Rings
+Total value 20
+
+Silver: 300
+Jewels: [1400]
+Total value 1430
+
+Silver: 600
+Gold: 40
+Gems: [100]
+Jewels: [6000]
+Total value 6200
+
+Silver: 300
+Gold: 10
+Total value 40
+
+Silver: 200
+Gold: 50
+Total value 70
+
+Silver: 200
+Gold: 60
+Total value 80
+
+Silver: 100
+Jewels: [1400, 7000]
+Total value 8410
+
+Silver: 500
+Total value 50
+
+Silver: 400
+Gold: 60
+Gems: [100]
+Total value 200
+
+Silver: 100
+Gold: 20
+Gems: [100]
+Total value 130
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 600
+Gold: 40
+Total value 100
+
+Silver: 200
+Total value 20
+
+Silver: 400
+Gold: 50
+Total value 90
+
+Silver: 300
+Gold: 60
+Total value 90
+
+Silver: 500
+Gold: 30
+Gems: [100]
+Jewels: [2000]
+Total value 2180
+
+Silver: 400
+Total value 40
+
+Silver: 500
+Gold: 20
+Gems: [10]
+Total value 80
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 300
+Jewels: [2000]
+Total value 2030
+
+Silver: 500
+Total value 50
+
+Silver: 400
+Gold: 30
+Total value 70
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 200
+Total value 20
+
+Silver: 100
+Gems: [100]
+Total value 110
+
+Silver: 300
+Gold: 10
+Total value 40
+
+Silver: 300
+Total value 30
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Gold: 30
+Total value 80
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 100
+Total value 10
+
+Silver: 500
+Gems: [100]
+Total value 150
+
+Silver: 500
+Jewels: [5000]
+Total value 5050
+
+Silver: 500
+Gems: [100]
+Total value 150
+
+Silver: 100
+Gold: 50
+Total value 60
+
+Silver: 500
+Gold: 10
+Magic:  Scrolls
+Total value 60
+
+Silver: 200
+Total value 20
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 300
+Gold: 60
+Total value 90
+
+Silver: 500
+Total value 50
+
+Silver: 400
+Total value 40
+
+Silver: 400
+Total value 40
+
+Silver: 400
+Gems: [500]
+Total value 540
+
+Silver: 100
+Gold: 30
+Total value 40
+
+Silver: 300
+Gold: 50
+Total value 80
+
+Silver: 100
+Gems: [100]
+Total value 110
+
+Silver: 300
+Gems: [100]
+Total value 130
+
+Silver: 600
+Gold: 20
+Total value 80
+
+Silver: 400
+Jewels: [4000]
+Total value 4040
+
+Silver: 500
+Jewels: [6000]
+Total value 6050
+
+Silver: 400
+Total value 40
+
+Silver: 400
+Gems: [100]
+Total value 140
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Gold: 20
+Total value 70
+
+Silver: 600
+Gold: 20
+Total value 80
+
+Silver: 400
+Gold: 50
+Gems: [50]
+Jewels: [6000]
+Total value 6140
+
+Silver: 300
+Gold: 20
+Gems: [100]
+Total value 150
+
+Silver: 100
+Gold: 40
+Total value 50
+
+Silver: 400
+Total value 40
+
+Silver: 100
+Gold: 50
+Jewels: [5000]
+Total value 5060
+
+Silver: 600
+Gold: 10
+Total value 70
+
+Silver: 400
+Gold: 60
+Total value 100
+
+Silver: 400
+Total value 40
+
+Silver: 100
+Gems: [10]
+Total value 20
+
+Silver: 100
+Total value 10
+
+Silver: 600
+Gold: 40
+Total value 100
+
+Silver: 400
+Gold: 50
+Total value 90
+
+Silver: 400
+Gold: 30
+Jewels: [1000, 5000]
+Total value 6070
+
+Silver: 400
+Total value 40
+
+Silver: 100
+Gold: 20
+Total value 30
+
+Silver: 200
+Gold: 40
+Total value 60
+
+Silver: 200
+Total value 20
+
+Silver: 600
+Gold: 10
+Total value 70
+
+Silver: 200
+Total value 20
+
+Silver: 600
+Total value 60
+
+Silver: 300
+Jewels: [10000]
+Total value 10030
+
+Silver: 500
+Gold: 20
+Total value 70
+
+Silver: 500
+Jewels: [5000]
+Total value 5050
+
+Silver: 100
+Gold: 60
+Total value 70
+
+Silver: 600
+Gold: 40
+Total value 100
+
+Silver: 600
+Gold: 10
+Total value 70
+
+Silver: 100
+Jewels: [1000]
+Total value 1010
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Total value 40
+
+Silver: 200
+Gold: 60
+Total value 80
+
+Silver: 400
+Total value 40
+
+Silver: 200
+Gold: 50
+Gems: [10]
+Total value 80
+
+Silver: 400
+Jewels: [900]
+Total value 940
+
+Silver: 200
+Total value 20
+
+Silver: 600
+Total value 60
+
+Silver: 100
+Total value 10
+
+Silver: 500
+Total value 50
+
+Silver: 200
+Gold: 20
+Total value 40
+
+Silver: 600
+Total value 60
+
+Silver: 100
+Gems: [1000]
+Total value 1010
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Total value 50
+
+Silver: 100
+Gold: 40
+Jewels: [900, 1000]
+Total value 1950
+
+Silver: 400
+Total value 40
+
+Silver: 400
+Total value 40
+
+Silver: 100
+Total value 10
+
+Silver: 600
+Gold: 50
+Gems: [10]
+Total value 120
+
+Silver: 100
+Total value 10
+
+Silver: 500
+Gold: 40
+Total value 90
+
+Silver: 300
+Total value 30
+
+Silver: 300
+Total value 30
+
+Silver: 300
+Gold: 10
+Total value 40
+
+Silver: 300
+Gold: 30
+Total value 60
+
+Silver: 100
+Gold: 50
+Gems: [10]
+Total value 70
+
+Silver: 200
+Magic:  Armor & Shields
+Total value 20
+
+Silver: 100
+Total value 10
+
+Silver: 400
+Magic:  Scrolls
+Total value 40
+
+Silver: 300
+Total value 30
+
+Silver: 100
+Gold: 60
+Total value 70
+
+Silver: 200
+Total value 20
+
+Silver: 300
+Gold: 30
+Jewels: [1600]
+Magic:  Swords
+Total value 1660
+
+Silver: 200
+Gold: 10
+Total value 30
+
+Silver: 200
+Total value 20
+
+Silver: 300
+Total value 30
+
+Silver: 400
+Total value 40
+
+Silver: 600
+Gems: [100]
+Total value 160
+
+Silver: 400
+Gold: 20
+Total value 60
+
+Silver: 300
+Total value 30
+
+Silver: 500
+Jewels: [6000]
+Total value 6050
+
+Silver: 400
+Gold: 20
+Total value 60
+
+Silver: 100
+Gold: 60
+Total value 70
+
+Silver: 600
+Gold: 60
+Total value 120
+
+Silver: 500
+Gold: 30
+Total value 80
+
+Silver: 100
+Gold: 30
+Total value 40
+
+Silver: 600
+Gold: 40
+Gems: [10]
+Jewels: [1000]
+Total value 1110
+
+Silver: 600
+Gold: 30
+Gems: [10]
+Total value 100
+
+Silver: 100
+Gold: 10
+Total value 20
+
+Silver: 100
+Jewels: [10000]
+Total value 10010
+
+Silver: 600
+Total value 60
+
+Silver: 300
+Gold: 60
+Total value 90
+
+Silver: 400
+Total value 40
+
+Silver: 300
+Gold: 60
+Total value 90
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Gold: 10
+Jewels: [4000, 700, 6000]
+Total value 10760
+
+Silver: 100
+Total value 10
+
+Silver: 200
+Total value 20
+
+Silver: 300
+Total value 30
+
+Silver: 200
+Jewels: [1000]
+Total value 1020
+
+Silver: 400
+Total value 40
+
+Silver: 500
+Gold: 40
+Total value 90
+
+Silver: 300
+Jewels: [900]
+Total value 930
+
+Silver: 200
+Gold: 30
+Magic:  Rods, Staves & Wands
+Total value 50
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Total value 50
+
+Silver: 100
+Total value 10
+
+Silver: 300
+Gems: [100]
+Total value 130
+
+Silver: 300
+Gold: 60
+Total value 90
+
+Silver: 300
+Total value 30
+
+Silver: 600
+Gold: 50
+Magic:  Armor & Shields
+Total value 110
+
+Silver: 600
+Gold: 10
+Gems: [50]
+Total value 120
+
+Silver: 300
+Gold: 50
+Gems: [100]
+Magic:  Miscellaneousmagic
+Total value 180
+
+Silver: 200
+Gold: 30
+Gems: [10]
+Total value 60
+
+Silver: 200
+Total value 20
+
+Silver: 600
+Jewels: [1400]
+Total value 1460
+
+Silver: 300
+Gold: 50
+Gems: [100]
+Total value 180
+
+Silver: 500
+Total value 50
+
+Silver: 500
+Gold: 40
+Jewels: [2000, 1000]
+Total value 3090
+
+Silver: 300
+Jewels: [1000]
+Total value 1030
+
+Silver: 400
+Total value 40
+
+Silver: 400
+Total value 40
+
+Silver: 300
+Total value 30
+
+Silver: 100
+Gold: 30
+Total value 40
+
+Silver: 600
+Total value 60
+
+Silver: 500
+Total value 50
+
+Silver: 100
+Total value 10
+
+Silver: 300
+Gold: 50
+Gems: [100]
+Total value 180
+
+Silver: 400
+Gold: 60
+Jewels: [5000]
+Total value 5100
+

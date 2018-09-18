@@ -1,0 +1,48 @@
+Gauntlets of Ogre Power:
+  weight: 1
+  description:  These gauntlets enhance the hands, arms and shoulder of the wearer and so allow the wearer to strike with the force of an ogre, dealing double damage with physical melee or thrown attacks despite their normal size. Additionally, the wearer is allower to perform feats of strength, at a DC of 15. If the wearer can already perform feats of strength, they have advantage instead. Finally, the wearer can carry 50% more item slots.
+Handy Haversack:
+  weight: 1
+  description: This enchanted backpack lightens the load of anything put within. Any item stored within the backpack takes up only half as many item slots. An item stored in the backpack takes an action to retrieve during combat. In most other respects, it is an ordinary backpack so items such as greatswords, halberds, suits of armor, etc. cannot be stored within. The backpack can hold up to 6 adjusted slots worth of items.
+Bracers of Archery:
+  weight: 1
+  description: These enchanted bracers allow the wearer to make called shots into melees or crowds without suffering disadvantage.
+Periapt of Proof against Poison:
+  weight: 1
+  description: While wearing this periapt, the wearer is immune to poisons.
+Manual of Bodily Health:
+  weight: 1
+  description: After reading this tome, the reader gains +1 constitution. The tome then disappears.
+Manual of Gainful Exercise:
+  weight: 1
+  description: After reading this tome, the reader gains +1 strength. The tome then disappears.
+Manual of Quickness of Action:
+  weight: 1
+  description:  After reading this tome, the reader gains +1 agility. The tome then disappears.
+Tome of Fine Control:
+  weight: 1
+  description: After reading this tome, the reader gains +1 dexterity. The tome then disappears.
+Tome of Clear Thought:
+  weight: 1
+  description: After reading this tome, the reader gains +1 intelligence. The tome then disappears.
+Tome of Leadership and Influence:
+  weight: 1
+  description:  After reading this tome, the reader gains +1 intelligence. The tome then disppears.
+Girdle of Strength:
+  weight: 1
+  description:  The wearer of this belt's strength is set to 20 (+3 bonus). If the wearer's strength is already 20 or greater, this belt grants a +2 bonus to strength instead.
+Gloves of Dexterity:
+  weight: 1
+  description: The wearer of these gloves' dexterity is set to 20 (+3 bonus). If the wearer's dexterity is already 20 or greater, these gloves grant a +2 bonus to dexterity instead.
+Monocle of Intellect:
+  weight: 1
+  description: The wearer of this monocle's intelligence is set to 20 (+3 bonus). If the wearer's intelligence is already 20 or greater, these gloves grant a +2 bonus to intelligence instead.
+Laser Pistol:
+  weight: 1
+  description: This pistol deals 3d6 radiant damage with a range of 80 feet. An energy pack supplies up to 10 shots.
+Energy Pack:
+  weight: 1
+  description: May be used to power Sci-fi items.
+Laser Rifle:
+  weight: 1
+  description: This rifle deals 4d6 radiant damage with a range of 300 feet. An energy pack supplies up to 5 shots.

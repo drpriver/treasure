@@ -1,0 +1,734 @@
+Arakkagroa:
+  type: humanoid
+  biome: 
+    - mountains
+    - plains
+  level: 1
+  numenc: 1d5
+  stats:
+        - AC 12, HP 3d8, Save +0, Spd 20 on land, Spd 50 when flying (10-ft wing-span)
+        - Atk +4 Spear 1d8+1d4
+        - Wing Buffet (recharge 6) --- The arakkagroa beats its wings furiously and summons a miniature air-elemental. Target creature within 20 feet suffers 2d8 bludgeoning damage (save for half) and is knocked down if they fail their save. Additionally, a tiny air elemental with 1d12 hit points, AC 12, atk+4 for 1d6 damage appears on top of the creature (or above them) and immediately attacks. The air elemental persists for 1 minute and will fight the Arakkagroa's enemies.
+  appearance: Arakkagroa are feathered vaguely humanoid bird people. They cannot use their weapons while flying, but can use wing buffet. They carry their spear in their talons while flying. Arakkagroa's are chaotic, average intelligence and speak Auran.
+Azer:
+  type: humanoid
+  biome:
+    - desert
+  level: 3
+  numenc: 1d6+1
+  stats: 
+        - AC 19/17, HP 6d8, Save +4, Spd 30, Healed by Fire
+        - Flaming Warhammer --- Atk +5, 1d8+1d6+1d6 fire
+        - Flaming Body --- A creature that starts its turn engaged in melee with the Azer suffers 3 fire damage. Any creature that hits the Azer with a non-reach melee weapon suffers 3 fire damage. The heat from azers cannot heal other azers or other creatures healed by fire.
+        - Firebolt --- Atk +5, 1d10 fire damage, Range 90
+  appearance: Azer are flaming men crafted out of bronze. Instead of a soul, they are animated by elemental fire. Azer are crafted by other Azer and are only crafted to replace those killed or retired. Azer are of normal intelligence, speak ignan and are always lawful. Azer often have a large need for bronze.
+Banshee:
+  type: undead
+  biome:
+    - swamp 
+    - ruins
+  level: 4
+  numenc: d1
+  stats:
+        - AC 12, HP 8d8, Save +2, Spd 40 flying. Incorporeal, Immune to non-magical attacks, resistant to non-radiant magical attacks
+        - Wail (recharge 6) --- All within 30 feet of the banshee that can hear her must make a DC 15 saving throw or be reduced to 0 HP.
+        - Horrifying Visage --- Any who look at the banshee must make a DC 15 saving throw or go temporarily insane.
+        - Corrupting Touch --- Atk +4, 3d6 necrotic damage
+Basilisk:
+  type: monster
+  biome:
+    - ruins
+    - desert
+  level: 3
+  numenc: 1d2
+  stats:
+        - AC 15, HP 8d8, Spd 20, Save +1
+        - Petrifying Gaze --- Any who look at the basilisk must make a DC 12 saving throw or be turned to stone.
+        - Petrifying Bite --- Atk +4, 4d6 damage and DC 12 saving throw or be turned to stone.
+Bugbear:
+  type: humanoid
+  biome:
+    - ruins
+    - mountains
+  level: 2
+  numenc: 1d6
+  stats:
+        - AC 16/14, HP 6d8, Save + 2
+        - Atk +4, 2d8+d4 damage (morningstar, warhammer, longsword, your choice)
+        - Sneaky --- Bugbears are 3-in-6 to surprise the party
+        - Surprise attack --- The bugbear deals an extra 2d6 damage on a round it has surprised the enemy
+Spawn of Satan:
+  type: demon
+  biome:
+    - ruins
+    - swamp
+  level: 5
+  numenc: d1
+  stats:
+        - AC 19, HP 16d8, Save +6, Spd 30 on foot, 60 by bat-wing, Resistant to poison, cold, fire, lightning and non-magical weapons
+        - Multi-actor --- the Spawn of Satan can take two actions each turn
+        - Poisoned Spear --- Atk +7 1d6(piercing)+1d8(fire)+1d12(poison) and victim must DC 15 save or be poisoned, suffering disadvantage on attacks, saves, spell DCs and moving at half speed. After 24 hours, the victim must make another saving throw, dying on a failure and ending the poison on a success.
+        - Fire Laser --- Atk +7, range 120, 3d6 fire damage
+        - Command --- Target must DC 15 save or must use next action to obey single word command
+        - Fiendish Charm (recharge 6) --- The Spawn of Satan meets the gaze of one random person within 30 feet. That person must make a DC 14 saving throw or fall under the Spawn of Satan's influence for 1 day, obeying the Spawn of Satan's verbal commands. A directly suicidal order (such as jumping off a cliff or committing sepuku) grants a new saving throw. The victim may make a new saving throw each day, but if they fail on the sabbath the effect is permanent.
+        - Escape to Hell (1/day) --- The Spawn of Satan teleports to Hell. All creatures under his charm are freed from his influence.
+Centaur:
+  type: monster
+  biome:
+    - forest
+  level: 3
+  numenc: d1
+  stats:
+        - AC 14, HP 8d10, Save +0, Spd 50
+        - Pike (two attacks) + 6, 1d10+1d8 damage, 10 feet of reach  or shortbow (two attacks) +4, 1d6+1d8 damage + DC 12 sleeping poison
+        - Charge --- if the centaur charges 30 feet at an enemy, they deal double damage with their pike and can overrun
+        - Overrun --- the centaur can overrun creatures smaller than it. Creatures can either save to dodge out of the way at DC 13, taking no damage on a success or try to stand their ground by making a DC 30 strength check (taking no damage and stopping the centaur on a success. A failure in either case inflicts 3d6 damage and being knocked down.
+  appearance: Centaur are men-horse hybrids. Centaurs are evil, hunting and eating men. They attack to kill anyone who dares to enter one of their forests.
+Chuul:
+  type: monster
+  level: 3
+  numenc: 1d5
+  stats:
+        - AC 16, HP 12d8, Save +4, 2-in-6 magic resistance, Spd 30, excellent swimmer
+        - Pincer (2), Atk +6, 10 feet of reach, dmg 3d6 and victim is grabbed by the pincer. The chuul can automatically damage anyone grabbed by the pincer each round.
+        - Tentacles +6, 5 feet of reach, DC 13 saving throw or be paralyzed for 10 minutes.
+  appearance: Chuul are 4 legged, with two huge pincers like a crab and pink tentacles that they can withdraw into their head cavity for moisturizing. Chuul have no eyes, instead relying on air/water vibrations to locate their prey. The chuul's body is covered in tough segmented chitin.
+Dark Dwarf:
+  type: humanoid
+  level: 2
+  numenc: 2d4
+  stats:
+        - AC 16, HP 5d8, Save +4, advantage vs spells, poisons and illusions
+        - Enlarge (recharge 6) --- the Dark Dwarf doubles in size. While thus enlarged, their attacks deal double dice.
+        - Invisibility (recharge 6) --- the Dark Dwarf becomes invisible until they attack 
+        - Warpike Atk +4, 1d12+1d6 (2d12+2d6), 10 ft of reach
+        - Scared of Sunlight --- Sunlight dispels the Dark Dwarf's Enlarge and Invisibility and incapacitates them.
+  appearance: Dark Dwarves are evil dwarves who live underground. They enslave any that they can.
+Air Elemental (small):
+  type: elemental
+  level: 2
+  numenc: 1d3
+  stats: 
+        - AC 17, HP 2d6, Save +1, Spd 100 flying, immune to non-magical weapons, lightning, thunder, poison
+        - Air --- Air elementals can occupy any creature's space and do not provoke opportunity attacks
+        - Whirlwind --- The air elemental forms a small tornado, 5 ft in diameter at the base and 10 feet tall. Those who start their turn in the tornado or who the air elemental moves through must save at DC 12 or suffer 1d6 bludgeoning damage and be thrown 5 feet in a random direction. If there is loose debris or the like, a blinding cloud will be created.
+Air Elemental (medium):
+  type: elemental
+  level: 3
+  numenc: d2
+  stats: 
+        - AC 17, HP 8d8, Save +3, Spd 100 flying,  immune to non-magical weapons, lightning, thunder, poison
+        - Air --- Air elementals can occupy any creature's space and do not provoke opportunity attacks
+        - Whirlwind --- The air elemental forms a small tornado, 10 ft in diameter at the base and 20 feet tall. Those who start their turn in the tornado or who the air elemental moves through must save at DC 14 or suffer 2d6 bludgeoning damage and be thrown 10 feet in a random direction. If there is loose debris or the like, a blinding cloud will be created.
+Air Elemental (large):
+  type: elemental
+  level: 4
+  numenc: d1
+  stats: 
+        - AC 17, HP 12d10, Save +4, Spd 100 flying,  immune to non-magical weapons, lightning, thunder, poison
+        - Air --- Air elementals can occupy any creature's space and do not provoke opportunity attacks
+        - Whirlwind --- The air elemental forms a small tornado, 15 ft in diameter at the base and 40 feet tall. Those who start their turn in the tornado or who the air elemental moves through must save at DC 16 or suffer 4d6 bludgeoning damage and be thrown 15 feet in a random direction. If there is loose debris or the like, a blinding cloud will be created.
+Fire Elemental (small):
+  type: elemental
+  level: 2
+  numenc: 1d3
+  stats:
+        - AC 15, HP 2d6, Save +1, Spd 50, cannot cross water, immune to non-magical weapons, fire, poison, lightning, vulnerable to cold, suffers 2d12 damage per gallon of water
+        - Fire --- Fire elementals can occupy any creature's space and do not provoke opportunity attacks
+        - Fireform --- a creature that starts its turn within 5 feet of the fire elemental, hits its with a melee attack or that the fire elemental walks through catches on fire, immediately suffering 1d10 fire damage and again at the beginning of their turn until someone takes an action to douse the flame.
+        - Firepunch (2 attacks) Atk +6 1d6 fire damage
+        - Cone of Fire (recharge 6) --- all within 15 ft cone must DC 12 saving throw or suffer 3d6 fire damage
+Fire Elemental (medium):
+  type: elemental
+  level: 3
+  numenc: 1d2
+  stats:
+        - AC 15, HP 8d8, Save +3, Spd 50, cannot cross water, immune to non-magical weapons, fire, poison, vulnerable to cold, suffers 2d12 damage per gallon of water
+        - Fire --- Fire elementals can occupy any creature's space and do not provoke opportunity attacks
+        - Fireform --- a creature that starts its turn within 5 feet of the fire elemental, hits its with a melee attack or that the fire elemental walks through catches on fire, immediately suffering 1d10 fire damage and again at the beginning of their turn until someone takes an action to douse the flame.
+        - Firepunch (2 attacks) Atk +6 21d6 fire damage
+        - Cone of Fire (recharge 6) --- all within 30 ft cone must DC 12 saving throw or suffer 4d6 fire damage
+Fire Elemental (large):
+  type: elemental
+  level: 4
+  numenc: 1d1
+  stats:
+        - AC 15, HP 12d10, Save +4, Spd 50, cannot cross water, immune to non-magical weapons, fire, poison, vulnerable to cold, suffers 2d12 damage per gallon of water
+        - Fire --- Fire elementals can occupy any creature's space and do not provoke opportunity attacks
+        - Fireform --- a creature that starts its turn within 5 feet of the fire elemental, hits its with a melee attack or that the fire elemental walks through catches on fire, immediately suffering 1d10 fire damage and again at the beginning of their turn until someone takes an action to douse the flame.
+        - Firepunch (2 attacks) Atk +6 3d8 fire damage
+        - Cone of Fire (recharge 6) --- all within 60 ft cone must DC 12 saving throw or suffer 6d6 fire damage
+Earth Elemental (small):
+  type: elemental
+  level: 2
+  numenc: 1d3
+  stats:
+        - AC 17, HP 4d6, Save +1, Spd 20, cannot cross water, immune to non-magical weapons, poison
+        - Slam (2 attacks) Atk +8, 1d10 bludgeoning damage
+        - Earthquake (recharge 6) --- the ground within 5 feet of the earth elemental violently quakes. All within the area must make a DC 12 saving throw or be knocked down and suffer 1d10 damage.
+Earth Elemental (medium):
+  type: elemental
+  level: 3
+  numenc: 1d2
+  stats:
+        - AC 17, HP 16d8, Save +3, Spd 20, cannot cross water, immune to non-magical weapons, poison
+        - Slam (2 attacks) Atk +8, 2d10 bludgeoning damage
+        - Earthquake (recharge 6) --- the ground within 15 feet of the earth elemental violently quakes. All within the area must make a DC 14 saving throw or be knocked down and suffer 2d10 damage.
+Earth Elemental (large):
+  type: elemental
+  level: 4
+  numenc: 1d1
+  stats:
+        - AC 17, HP 24d10, Save +4, Spd 20, cannot cross water, immune to non-magical weapons, poison
+        - Slam (2 attacks) Atk +8, 4d10 bludgeoning damage
+        - Earthquake (recharge 6) --- the ground within 30 feet of the earth elemental violently quakes. All within the area must make a DC 16 saving throw or be knocked down and suffer 4d10 damage.
+Water Elemental (small):
+  type: elemental
+  level: 2
+  numenc: 1d3
+  stats:
+        - AC 17, HP 2d6, Save +1, Spd 30, immune to non-magical weapons, poison
+        - Body of Water --- The water elemental heals 1d6 hit points each round it is immersed in water (even partially). While out of water, it suffers 1 hit point of damage at the beginning of its turn. The water elemental deals double damage if it is touching a body of water.
+        - Slam (2 attacks) --- Atk+7, 1d10 bludgeoning damage
+Water Elemental (medium):
+  type: elemental
+  level: 3
+  numenc: 1d2
+  stats:
+        - AC 17, HP 8d8, Save +3, Spd 30, immune to non-magical weapons, poison
+        - Body of Water --- The water elemental heals 1d6 hit points each round it is immersed in water (even partially). While out of water, it suffers 1 hit point of damage at the beginning of its turn. The water elemental deals double damage if it is touching a body of water.
+        - Slam (2 attacks) --- Atk+7, 2d10 bludgeoning damage
+Water Elemental (large):
+  type: elemental
+  level: 4
+  numenc: 1d1
+  stats:
+        - AC 17, HP 12d10, Save +4, Spd 30, immune to non-magical weapons, poison
+        - Body of Water --- The water elemental heals 1d6 hit points each round it is immersed in water (even partially). While out of water, it suffers 1 hit point of damage at the beginning of its turn. The water elemental deals double damage if it is touching a body of water.
+        - Slam (2 attacks) --- Atk+7, 4d10 bludgeoning damage
+Flameskull:
+  type: undead
+  level: 3
+  numenc: 1d2
+  stats:
+        - AC 13, HP 4d12, Spd 40 flying, Immune to fire, poison, necrotic, lightning, Vulnerable to cold and bludg., 3-in-6 magic resistance
+        - Flameskulls are on fire, shedding light like a torch. 
+        - Fire laser (two attacks) atk +5, 3d6 fire damage, range 30 ft
+        - Magic Missile (recharge 4-6) --- 4 unerring missile attacks, dealing 1d6 damage per missile
+        - Flaming Sphere (recharge 5-6) --- The Flameskull conjures a flaming sphere that rolls around. Anyone starting their turn next to it suffers 2d6 fire damage. The Flameskull can only have one sphere at a time.
+        - Fireball (recharge 6) --- 20 ft radius, 6d6 fire damage, range 120 feet, DC 13 save for half damage
+Galor Gi:
+  type: monster
+  level: 4
+  numenc: d1
+  biome:
+        - mountains
+  stats:
+        - AC 16, HP 12d8, Saves +5, Spd 30, 2-in-6 magic resistance, immune to nonmagical weapons that aren't picks
+        - Animate Boulders (1/day) --- The Galor Gi can animate up to two boulders it can see. The animated boulders have the same statistics as the animating Galor Gi (including max HP) and obey his mental commands
+        - Bowling Ball --- The Galor Gi rolls like a bowling ball into its enemies. The galor Gi must move at least 20 feet to bowl into a creature. The victim must make a DC 16 saving throw or be knocked down and suffer 5d6 damage. The Galor then continues forward in a straight line, repeating this effect on each creature in its way until one of them succeeds on the saving throw or it has moved a total of 60 feet.
+  appearance: Galor Gi are indistinguishable from boulders until they stir. They are custodians of rock and will attack anyone they think is there to mine, harm stone, take rocks or gems away etc. A Galor Gi speaks terran and will demand any jewels the party has.
+
+Iron Bull:
+  type: monster
+  level: 4
+  numenc: d1
+  stats:
+        - AC 19, HP 24d10, Spd 40
+        - Petrifying Breath (recharge 5-6) --- All creatures in a 30 ft cone must make a dc 13 saving throw or be turned to stone.
+        - Horns --- Atk +7, 4d8 piercing damage
+        - Trample --- (assuming victim is smaller) target must DC 15 save or be trampled --- knocked down and take 4d8 damage. Those who are already knocked down have disadvantage. The Bull can only trample a single creature once per turn and tramples as part of its move. Larger or heroic creatures can make a strength check to stop the bull in its tracks.
+
+Allip:
+  type: undead
+  level: 3
+  numenc: d1
+  biome:
+    - swamp
+    - ruins
+  stats:
+    - AC 15, HP 4d12, Fly 30, Save +3, Incorporeal, immune to non-magical weapons, resistant to spells, vulnerable to radiant. Will take damage if exposed to light (1 damage at the beginning of its turn in torch light, 2 in lamplight, 2d10 in sunlight)
+    - Babble --- any creature who hears the Allip's madenning babble must make a DC 15 saving throw or be driven temporarily insane (use the Confusion table).
+    - Madenning Touch --- atk +4, the Allip is driven to embrace the sane and to attempt to pull the soul out of the body. If the Allip succeeds on an attack roll versus a character's unarmored AC that character must make a DC 13 saving throw. A creature who fails this saving throw is paralyzed for the duration of the following effect --- the creature's soul leaves the body and assumes the form of another Allip (with same maximum HP as the source Allip), which attacks the party. If the soul is defeated, it returns to the body and the creature takes damage equal to half of their maximum HP and the effect ends. If the body is destroyed or otherwise dies while the soul is outside of it, the transformation into an Allip is permanent.
+Rocherakai:
+  type: monster
+  level: 5
+  numenc: d4
+  biome:
+    - plains
+  appearance: Rocherakais are huge bird-like creatures. They appear like the common cardinal, but are 20 feet tall, and have 4 legs. Due to their great size they cannot fly except in areas with low gravity, where they can fly excellently. Their legs are very tough --- any attempted attack upon them is AC 20.
+  stats:
+    - AC 16, HP 8d12, Spd 60, Save +3, 2-in-6 magic resistance
+    - Atks + 9, Dmg 3d6 (2 claws), 5d6 (beak) and target is grabbed by the beak
+    - Wing Beat --- the Rocherakai beats its wings furiously. Those it is directed at must make a DC 14 saving throw or be pushed 10 feet, knocked down and suffer 2d10 damage.
+Teqbel:
+  type: monster
+  level: 2
+  appearance: Teqbel are psionic monsters. They are essentially large floating brains with barbed tentacles dragging along behind them. Teqbel's seek to merge other brains into theirs, to enhance their psychic powers. The brain must be living for them to merge with it, so they prefer to attack nonlethally. However, if there is a crowd of creatures, they will have no qualms of killing most of them.
+  stats:
+    - AC 12, HP 6d8 Spd 30 (hovering a few feet above the ground), Save +2, healed by lightning, vulnerable to psychic
+    - Tentacles (4 atks), atk +3, the victim must make a DC 11 saving throw or be paralyzed for 1 minute.
+    - Mass Mind Tar (recharge 6) --- Up to 6 targets in a 30 foot cube within 60 feet must make a DC 15 saving throw. On a failure, they suffer 3d8 psychic damage and are slowed for 1 round
+    - Phantasmal Killer (recharge 6) --- target creature within 30 feet must make a DC 13 saving throw or have a phantasm of their worst nightmare appear in their perception. Such a creature is frightened for the duration and must make a DC 13 saving throw at the beginning of each of their turns, suffer 4d10 psychic damage on a failure. On a success, the effect ends.
+    - Sleep (recharge 4-6) --- Roll 3d8. Each creature with that many hit points or fewer within 20 feet of a point within 60 feet must make a saving throw or fall into a deep sleep for 2 hours.
+    - Mind Crush --- target creature makes a DC 13 saving throw or suffer 2d8 psychic damage.
+  numenc: d3
+Goblin:
+  type: humanoid
+  biome:
+    - mountains
+    - ruins
+  level: 1
+  numenc: 2d6
+  stats:
+        - HP 2d6, AC 13, Save +2
+        - Atk +4, Dmg 1d6+1d4 (shortbows or shortswords)
+Orc:
+  type: humanoid
+  biome:
+    - mountains
+    - ruins
+    - plains
+  level: 1
+  numenc: d6+2
+  stats:
+        - HP 3d8, AC 15, Save +3
+        - Atk +5, Dmg 1d12+1d6(greataxe) or 3d6(shotput) or 1d8+1d6(longspear)
+        - Aggressive --- may move an extra 30 feet towards an enemy each turn
+  appearance: Pig-headed
+Orc Berserker:
+  type: humanoid
+  biome:
+    - mountains
+    - ruins
+    - plains
+  level: 2
+  numenc: d6+2
+  stats:
+        - HP 3d8+2d12, AC 16, Save +3, Spd 40
+        - Atk +6, Dmg 1d12+1d6 (greataxe) or 3d6 (shotput) or 1d8+1d6 (longspear)
+        - Aggressive --- may move an extra 30 feet towards an enemy each turn
+        - Berserk --- resistance to weapon damage, immune to morale, +1d4 melee damage
+Skeleton:
+  type: undead
+  biome:
+    - swamp
+    - ruins
+  level: 1
+  numenc: d8
+  stats:
+        - HP 2d10, AC 13/15, Save +2, Bludg. Vul.,
+        - Atk +3 Dmg 1d6+1d4(claw, shortsword or bow)
+Kobold:
+  type: humanoid
+  biome:
+    - mountains
+    - ruins
+  level: 1
+  numenc: 3d4
+  stats:
+        - HP 2d4, AC 15, Save +1
+        - Atk+3, Dmg 1d4+1d4 or 1d12+1d4(daggers or heavy crossbow)
+Giant Centipede:
+  type: monster
+  biome:
+    - swamp
+    - ruins
+  level: 1
+  numenc: d3
+  stats:
+        - AC 13, HP 3d6. Save +0
+        - Atk +3, 1d6 damage + 10 minute paralysis (DC 13).
+  appearance: Curved Hollow fangs dig into your flesh as the huge centipede skitters!
+RoUS:
+  type: monster
+  biome:
+    - swamp
+    - ruins
+  level: 1
+  numenc: d6
+  stats:
+        - HP 1d6, AC 12, Saves +0
+        - Atk+3, Dmg 1d6+disease (DC 15), Save +0. Disease --- rabies, normally fatal
+Young Dragon:
+  type: dragon
+  biome:
+    - ruins
+    - mountains
+    - swamp
+  level: 1
+  numenc: d1
+  stats:
+        - AC 18, HP 8d12, Save +6
+        - Atk+7 3d6 (Claw), 2d12 (Bite), 2d8 (Tail, must attack behind, opposite of a claw or bite attack). 
+        - Dragon's Breath (Recharge 5-6) --- 4d12, DC 15 save for half damage in a 30 foot cone (1-3 on d6) or 10 foot wide, 45 foot line(4-6 on d6).
+        - Requires 10 ft space to fight, has 20 ft wingspan. Can fit into 5-ft wide areas, but suffers disadvantage.
+Dwarven Warrior:
+  type: humanoid
+  biome:
+    - ruins
+    - mountains
+  level: 1
+  numenc: d3
+  stats:
+        - AC 18/16, HP 3d8, Saves +6
+        - Atk +4, Dmg 1d8+1d4 (warhammer or battleaxe) or 1d12+1d4 (dwarven warpike).
+Elven Spellwarrior:
+  type: humanoid
+  biome:
+    - forest
+  level: 1
+  numenc: d3
+  stats:
+        - AC 15 (elven chainshirt), HP 3d4, Saves +3
+        - Atk +4 (+6 with bows, may fire into melee), Dmg 1d8+1d4 (longbow) or 1d10+1d4 (longsword).
+        - Magic --- May cast one spell (DC 12) from the following (d3 roll) 1 --- Burning Hands (3d6 fire damage in 15 ft cone), 2 --- Chromatic Orb (4d8 damage elemental projectile), 3 --- Mend Wounds (Heal for 2d6)
+Hobgoblin:
+  type: humanoid
+  biome:
+    - ruins
+    - mountains
+    - plains
+  level: 2
+  numenc: d6+3
+  stats:
+        - AC 18/16, HP 2d6, Saves +0
+        - Atk +3, 1d8 longsword or 1d8 longbow. 
+        - +2d6 damage if target engaged with any ally. 18 AC implies shield.
+  appearance: Orange or red men with very triangular noses, sharp teeth, dressed in chainmail.
+Greek Warrior:
+  type: humanoid
+  biome:
+    - ruins
+    - plains
+    - mountains
+    - forest
+  level: 2
+  numenc: d4+3
+  stats:
+        - AC 19(shield)/17, HP 3d6, Saves +2
+        - Atk +4, Dmg 1d6/1d8+1d4 (spear)
+        - Spear-Fighting --- May set spear against charge (readied attack). If it hits, it's a crit.
+  appearance: Greek warriors armed with shortspear and armored with bronzeplate mail. Alternative variety dual wields shortspear and longsword.
+Zombie:
+  type: undead
+  biome:
+    - ruins
+    - swamp
+  level: 2
+  numenc: d6
+  stats:
+        - AC 8, HP 4d8, Spd 20, Saves +0
+        - Atk +3, Dmg 1d8. 
+        - Can only be finished off by a crit, radiant damage or by the zombie failing a DC 10 saving throw. Otherwise goes to 1 HP.
+Conjurer:
+  type: wizard
+  level: 2
+  numenc: d3
+  stats:
+        - AC 12, Saves +4, HP 3d6, 
+        - Elemental Blast --- DC 12 save for half damage, 15x5 line, 2d6 damage (may be lightning, fire or cold). 
+        - Conjure Elemental (Concentration) --- Conjure a random medium-sized elemental (d4) 1 --- Air, 2 --- Fire, 3 --- Earth, 4 --- Water. See elemental statblock.
+Gnoll:
+  type: humanoid
+  biome:
+    - ruins
+    - plains
+  level: 2
+  numenc: 2d8
+  stats:
+        - AC 16/14 HP 5d8, Saves +2
+        - Atk +4. Dmg 2d4 Bite, 1d6+1d4 shortspear, or 1d6+1d4 shortbow.
+        - Incite Rampage (recharge 5-6) --- One of the gnolls is their double HP leader. He can give a battle shout causing all gnolls to immediately bite attack as a reaction whoever they are engaged with.
+  appearance: Gnolls are large canine-men, about 8 feet tall, usually armed with shield, hide (leather) armor and shortspears. Gnolls prefer to fight in the open so they can surround a character, then murder them with Incite Rampage.
+Thoul:
+  type: undead
+  biome:
+    - ruins
+    - swamp
+    - mountains
+  level: 2
+  numenc: d3+d9
+  stats:
+        - AC 16, HP 3d6, Saves +3 
+        - Atk +4, 1d8+1 longsword and DC 13 save on touch or be paralyzed, save ends (dual wields sword and hand). 
+        - +2d6 damage if target engaged with any ally.
+  appearance: Hideous undead creatures with grey skin, triangular noses and dressed in chainmail. Their hair is rotted and wormlike, their teeth blackened and broken. Despite their undeath, they still move with military precision.
+Ghoul:
+  type: undead
+  biome:
+    - ruins
+    - swamp
+  level: 2
+  numenc: d6+d6
+  stats:
+        - AC 12, HP 5d8, Saves +1
+        - Atk +4, 3d4 slashing damage + paralysis (DC 12) for 1 minute
+  appearance: Long pink tongues, gray bodies, hungers but does not need to eat.
+Berserker:
+  type: humanoid
+  biome:
+    - forest
+    - mountains
+  level: 2
+  numenc: d12
+  stats:
+        - AC 14, HP 2d12, Saves +3, Speed 40
+        - Atk+3, Dmg 1d12+2d4
+        - Rages in combat, granting resistance to all weapon damage, may attack recklessly (his attacks have advantage, attackers have advantage).
+Medium Spider:
+  type: monster
+  biome:
+    - forest
+    - ruins
+    - swamp
+  level: 2
+  numenc: d3
+  stats:
+        - AC 14, HP 3d8, Saves +2 Can climb walls 
+        - Atk+4, Dmg 1d6 + poison DC 14, 1 rank of exhaustion. 
+        - Net! recharge (6), atk +4, 50 feet of range, webs(restrains) the victim on a hit
+Demon Ant-man:
+  type: humanoid
+  level: 2
+  numenc: d4+2
+  stats:
+        - AC 18,  HP 6d8, Saves +3, Fire, electricity and sonic resistance, 
+        - Atk+7, Dmg Claws 1d8 (x2), Bite 1d6, Sting, 2d8+DC14 poison (1 level of exhaustion now, 1 in one minute).
+  appearance: Demon ant men walk on 4 legs, their 2 legs and front section coming up somewhat like a centaur. Their exoskeleton is a reddish-orange and they have a large stinger extending from their behind. The Demon Ant-queen is often located nearby.
+Zombie Ogre:
+  type: undead
+  biome:
+    - swamp
+    - ruins
+  level: 2
+  numenc: d3
+  stats:
+        - AC 12, HP 52+1d12, Saves +3, Speed 20
+        - Atk+5, Dmg 3d8 (greatclub), hits two targets with one attack
+Gelatinous Cube:
+  type: monster
+  biome:
+    - ruins
+  level: 2
+  numenc: d1
+  stats:
+        - AC 10, HP 50, Saves +2, Speed 15. Immune to weapon damage. Resistance to non-cold forms of damage.
+        - Atk +3 (pseudopod or gelatinous ejection) 2d6 acid damage, range 30 feet (ejection)
+        - Engulf --- Those who run into or are overrun by the cube are engulfed by it, suffering 2d6 acid damage immediately and again at the beginning of their turn each round. A DC 30 strength check allows them to free themselves, or DC 20 by someone external (however if that person has to reach into the cube, then they will suffer acid damage too).
+  appearance: A gelatinous cube is a 10x10x10 cube and is normally completely transparent (1-in-6) for party to notice. Gelatinous cubes are not normally aggressive, but will eject gelatinous enzymes at any who attack it. If struck with cold (the cube's weakness) it will attempt to flee. The cube is mindless and is easily trapped.
+Wight:
+  type: undead
+  biome:
+    - ruins
+    - swamp
+  level: 3
+  numenc: d4+d6
+  stats:
+        - AC 15, HP 4d12, Saves +3
+        - Atk +5, Dmg 1d8 (soul-draining claws) + 200 xp drain and 1 level of exhaustion (DC 13). The wight gains 5 hit points if the victim fails the save against xp drain. A character slain by a wight rises as a wight in 1d4 rounds.
+        - Scared of Sunlight --- Wights run in terror from sunlight. If forced to fight, they do so at a disadvantage.
+        - (Optional) Some wights retain their abilities from before their death. If so, they may make the claw attack as an extra attack each round.
+  appearance: Wights have no memory of their former life. Their instinct is to snuff out the living in the world.
+Champion Hero:
+  type: humanoid
+  biome:
+    - plains
+  level: 3
+  numenc: d1
+  stats:
+        - HP 13d6, AC 17, Saves +6, May attack twice
+        - Greatsword --- Atk+7 Dmg 1d12+1d8 (the 1d8 also hits a secondary target)
+        - Heavy Crossbow --- Atk +7 1d12+1d8, uses half of movement to reload for each shot
+        - Action Surge --- May immediately take another action.
+        - Second Wind --- If below half HP, may gain 2d6+10 temporary hit points (non-action)
+        - Combat Dominance --- If succeed on a combat maneuver, may immediately make an extra attack.
+        
+  appearance: Heroes are 5th level fighters. 50% of the time they are evil (villains). Other variants of heroes may be generated by creating a 5th level fighter.
+Archer Hero:
+  type: humanoid
+  biome:
+    - plains
+  level: 3
+  numenc: d1
+  stats:
+        - HP 13d6, AC 17, Saves +6, May attack twice
+        - Longbow --- Atk +9, Dmg 2d8, may fire accurately into crowds.
+        - Greataxe --- Atk+7, Dmg 1d12+1d8
+        - Action Surge --- May immediately take another action. 
+        - Second Wind --- If below half HP, may gain 2d6+10 temporary hit points (non-action)
+        - Combat Dominance --- If succeed on a combat maneuver, may immediately make an extra attack.
+  appearance: Heroes are 5th level fighters. 50% of the time they are evil (villains). Other variants of heroes may be generated by creating a 5th level fighter.
+Giant Constrictor Snake:
+  type: monster
+  biome:
+    - swamp
+    - forest
+  level: 3
+  numenc: d6
+  stats:
+        - AC 16, HP 5d12, Speed 30, Saves +3
+        - Constrict --- Giant constrictor snakes make a grapple attack at +8 (opposed by victim's attack roll). If successful, the snake has wrapped around them and can immediately squeeze for 2d12 damage, automatically dealing that much damage on each of its subsequent turns. Giant constrictor snakes can wrap around two creatures.
+  appearance: Giant Constrictor Snakes are about 15 feet long and around 2 feet in diameter.
+Giant Viper:
+  type: monster
+  biome:
+    - swamp
+    - forest
+  level: 3
+  numenc: d6
+  stats:
+        - AC 16, HP 5d12, Speed 30, Saves +3
+        - Bite +7, 1d12 damage and DC 14 save or be poisoned. A creature poisoned this way, in addition to suffering from the poisoned condition, takes 1d12 poison damage at the start of their turn. They may make a new saving throw at the end of each of their turns to end the poison.
+Giant Weasel:
+  type: monster
+  biome:
+    - plains
+  level: 3
+  numenc: d6
+  stats:
+        - AC 14, HP 3d8, Speed 40, Saves +3
+        - Atk +6, Dmg 2d6 (bite) and latches onto the victim. The victim suffers a 1d6 bleeding damage and a level of exhaustion at the beginning of the weasel's turn each round until the weasel is detatched (a str check would do so).
+Wraith:
+  type: undead
+  biome:
+    - ruins
+    - swamp
+  level: 4
+  numenc: d8
+  stats:
+        - AC 13, HP 9d12, Speed 60 (flying), cannot be harmed by non-magical weapons, resistant to damage from spells
+        - Atk +6, Dmg 5d8 and victim must DC 14 saving throw or hit point maximum is reduced by same amount and suffer 1 level of exhaustion. The HP reduction lasts until a long-rest is finished. Creatures slain by a wraith rises as a wraith in 1d4 rounds.
+        - Sunlight Vulnerability --- Each round that a wraith is in sunlight, it must save against DC 15 or be destroyed.
+  appearance: Wraiths are incorporeal creatures born of evil and darkness
+Ogre:
+  type: humanoid
+  biome:
+    - mountains
+    - ruins
+  level: 4
+  numenc: d6
+  stats:
+        - AC 12, HP 48+2d12, Saves +3
+        - Atk +5, Dmg 3d8 (greatclub), hits two targets with one attack
+Myrmidon:
+  type: humanoid
+  biome:
+    - plains
+  level: 4
+  numenc: d6+1
+  stats:
+        - AC 16, HP 5d6, Save +4
+        - Atk +5, Shortsword 2d6 (x2) or Javelin 2d6
+Minotaur:
+  type: humanoid
+  biome:
+    - ruins
+  level: 4
+  numenc: d1
+  stats:
+        - AC 14, HP 8d8, Save +4
+        - Atk +6 Greataxe d12+d6 (crit on 19s), or Horns when charging, atk+8, 4d6
+Giant Scorpion:
+  type: monster
+  biome:
+    - desert
+    - plains
+  level: 4
+  numenc: d12
+  stats:
+        - AC 15, HP 3d8, Save +2
+        - Atk +3, 2 Claws d6, Stinger d6+ dc 12 poison (paralysis) 
+  appearance: Giant Scorpions are about the size of a large dog
+Hill Giant:
+  type: humanoid
+  biome:
+    - mountains
+  level: 5
+  numenc: d6
+  stats:
+        - AC 14, HP 8d12+12, Save +4, Speed 40
+        - Huge Greatclub --- Atk +8, 4d10, hits up to 3 creatures in 15 ft frontal cone
+        - Throw Boulder --- Atk +8, 3d8 damage, boulder explodes into shards, hitting all within 10 foot radius of impact. Those in impact area can DC 15 saving throw for half damage. Boulder can be thrown at location (AC 10 + 1 per 15 feet from giant) or at a particular creature (which deals double damage to the creature it hits). On any miss, roll for deviation to determine where the boulder actually lands. Almost any large throwable object can count as a boulder for this attack.
+  appearance: Hill giants stand 12 feet tall and often clothe themselves in untanned hides. Hill giants are unable to manufacture weapons for themselves, but if enslaved by fire giants will be equipped with huge greatswords (dealing 4d12 damage).
+Fire Giant:
+  type: humanoid
+  biome:
+    - desert
+    - mountains
+    - ruins
+  level: 6
+  numenc: d3
+  stats:
+        - AC 18, HP 12d12+12, Save +6, Fire Immunity, Speed 45
+        - Huge Greatsword --- Atk +10, 4d12+d12 fire, hits up to 4 creatures in 15ft frontal cone
+        - Fireball (recharge 6) --- range 120 feet, 20ft radius ball of fire dealing 8d6 fire damage (DC 15 save for half)
+        - Wall of Fire (recharge 6) --- 60 foot long, 20 feet high, 1 foot thick wall of fire in any shape within 120 feet. Passing through deals 5d8 fire damage. Any standing within 10 feet of the wall take 5d8 fire damage at the beginning of their turn or when they first enter the area on their turn. Damage from mere proximity allows a DC 15 saving throw for half damage. The wall of fire persists for 1 minute.
+  appearance: Fire giants stand 15 feet tall, with beards made of fire. They are armed in gigantic plate armor and wield huge flaming greatswords. They often keep several hellhounds with them as pets. All fire giants wield some fire magic. Fire giants are slightly above average intelligence.
+Frost Giant:
+  type: humanoid
+  biome:
+    - mountains
+    - glacier
+    - ruins
+  level: 6
+  numenc: d3
+  stats:
+        - AC 18, HP 12d12+12, Save +6, Cold Immunity, Speed 45
+        - Huge Greataxe --- Atk +10 Dmg 4d12, hits up to 4 creatures in 15ft frontal cone and victims must DC 16 save or be slowed from the cold until the end of their next turn.
+        - Cone of Cold (recharge 6) --- 60 ft cone of freezing air, all within must DC 16 save or suffer 8d8 cold damage (half as much on a success) and be slowed from the cold until they succeed on a saving throw against it at the end of their turn.
+        - Iceblock (recharge 6) --- target creature or creatures in a 10 ft radius within 30 ft must DC 16 saving throw or be frozen in a block of ice (success means they have dived out of the area). The ice has HP 100 is vulnerable to fire, etc.
+Necromancer:
+  type: wizard
+  level: 1
+  numenc: d3
+  biome:
+    - ruins
+    - swamp
+  stats:
+    - AC 13, HP 3d6, Save +4
+    - Chill Touch --- Atk +5, 1d8 necrotic damage and the creature cannot be healed for 1 minute. This has a range of 60 feet, but is a melee attack and so ignores cover.
+    - Spells --- the Necromancer has 4 of the following 8 spells, chosen at random.
+    - 1. Blinding Bolt --- Atk +5, range 120, 4d6 necrotic damage and victim is blinded for 1 round
+    - 2. Ray of Poison --- Atk +5, range 120, 2d8 poison damage and target must save vs DC 13 or be poisoned. Poisoned means they have disadvantage on attacks and spells and suffer 1d8 poison damage at the beginning of their turn. They can make a new save at the end of their turn.
+    - 3. Inflict Wounds --- Atk+5, 3d10 necrotic damage
+    - 4. False Life --- The necromancer has 15 temporary hit points.
+    - 5. Terror --- target creature must make a DC 13 saving throw or be filled with terror. They suffer 2d8 psychic damage and are compelled to flee on their turn.
+    - 6. Hide from Undead --- The necromancer cannot be perceived by undead creatures (useful for uncontrolled undead)
+    - 7. Sap Strength --- target creature must make a DC 13 saving throw or have the strength sapped from their limbs. Any attacks they make are at -4 and deal -4 damage.This effect lasts for 1 hour.
+    - 8. Bane --- Up to six target non-chaotic creatures must make a DC 13 saving throw or have disadvantage on attacks, spells, and saving throws for 1 minute. A victim can take an action to try to dispel the bane (make a new saving throw) by praying.
+Master Necromancer:
+  type: wizard
+  level: 5
+  numenc: d1
+  biome:
+    - ruins
+    - swamp
+  stats:
+    - AC 15, HP 7d6, Save +6
+    - Master Necromancers are always accompanied by 3d6 skeletons.
+    - Chill Touch --- Atk +5, 3d8 necrotic damage and the creature cannot be healed for 1 minute. This has a range of 60 feet, but is a melee attack and so ignores cover.
+    - Level 1 Spells --- the Necromancer has 6 of the following 8 spells, chosen at random.
+    - 1. Blinding Bolt --- Atk +5, range 120, 4d6 necrotic damage and victim is blinded for 1 round
+    - 2. Ray of Poison --- Atk +5, range 120, 2d8 poison damage and target must save vs DC 13 or be poisoned. Poisoned means they have disadvantage on attacks and spells and suffer 1d8 poison damage at the beginning of their turn. They can make a new save at the end of their turn.
+    - 3. Inflict Wounds --- Atk+5, 3d10 necrotic damage
+    - 4. False Life --- The necromancer has 15 temporary hit points.
+    - 5. Terror --- target creature must make a DC 13 saving throw or be filled with terror. They suffer 2d8 psychic damage and are compelled to flee on their turn.
+    - 6. Hide from Undead --- The necromancer cannot be perceived by undead creatures (useful for uncontrolled undead)
+    - 7. Sap Strength --- target creature must make a DC 13 saving throw or have the strength sapped from their limbs. Any attacks they make are at -4 and deal -4 damage.This effect lasts for 1 hour.
+    - 8. Bane --- Up to six target non-chaotic creatures must make a DC 13 saving throw or have disadvantage on attacks, spells, and saving throws for 1 minute. A victim can take an action to try to dispel the bane (make a new saving throw) by praying.
+    - Level 2 Spells the Necromancer has 4 of the following 7 spells.
+    - 1. Blindness/Deafness --- target creature is blinded or deafened for 1 hour unless they succeed on a DC 15 saving throw
+    - 2. Darkness --- magical darkness radiates 20' from a point.
+    - 3. Darkvision --- up to six creatures can see in the dark for 1 hour
+    - 4. Mass Harming Word --- up to 8 creatures suffer 2d8 necrotic damage, DC 15 save for half
+    - 5. Wracking Pain --- target creature must save every round for 1 minute. Failure causes 1d8 psychic damage and to fall prone, incapacitated. This spell ends with the death of the Necromancer.
+    - 6. Hold Person --- target creature must save or be paralyzed for 1 minute, may make a save at the end of each of their turns to end it.
+    - 7. Anti-life Ward --- living creatures are repelled from the necromancer, cannot come within 10 feet without making a DC 15 saving throw.
+    - Level 3 Spells the Necromancer has 2 of the following 6 spells.
+    - 1. Skull Trap
+    - 2. Mass Inflict Wounds --- up to 8 creatures suffer 4d10  necrotic damage, save for half.
+    - 3. Animate Dead --- animates a large skeleton or half a dozen human sized undead
+    - 4. Remove/Bestow Curse --- bestows a curse (or removes it)
+    - 5. Vampiric Touch --- For the next minute, can make melee attacks that deal 3d6 necrotic damage and heal the necromancer for the same amount.
+    - 6. Fear --- all creatures within a 60 ft cone must make a DC 15 saving throw or flee in fright, compelled to dash away on their turn. They are allowed a new saving throw at the end of each of their turns.

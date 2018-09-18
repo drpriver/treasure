@@ -1,0 +1,104 @@
+General Feats
+
+Luck of Heroes*
+You gain a +2 bonus to saving throws
+Exceptional Training*
+You gain 3 ability score points to distribute as you wish.
+Toughness*
+You gain an extra hit dice.
+Improved Proficiency*
+Your proficiency bonus increases by 1
+Magic Resistance*
+You gain +20% magic resistance
+Leadership*
+Armies you lead into battle (as a general or officer) gain +1 rating.
+In smaller scale fights, your allies have advantage against fear.
+Magically Attuned*
+You may attune to an extra magic item.
+Class Dabbler*
+Choose one of the following features. You cannot choose one for a class you already have (fighters can’t choose fighter).
+Fighting-Man
+You gain a martial dice, a d4.
+Rogue
+You can sneak attack, which deals 1d6 damage.
+Wizard
+You learn two random 1st level spells from a school of wizardry of your choice. You can cast each once per adventure. You also learn a random cantrip.
+Strong Back*
+You can carry 4 more item slots worth of gear without being encumbered.
+Choice!*
+You may pick a feat from your class’s feat table instead of rolling.
+Fighter Feats
+
+Extra Fighting Style*
+Choose an extra fighting style.
+Bravery
+You are immune to fear effects and cannot be frightened.
+Fighting-Style Focus*
+Choose a fighting style. You gain a +1 bonus to attack and damage when engaging in that fighting style.
+Stubborn
+Once per adventure, if you would go to 0 HP, you instead are reduced to 1 HP.
+Once per adventure, if you fail a saving throw you may decide to instead succeed on that saving throw.
+Armor Mastery*
+Choose light or heavy armor mastery:
+Light Armor Mastery:
+While wearing no armor or armor no heavier than breastplate, your speed is 5 feet faster and you have an extra +1 bonus to AC.
+Heavy Armor Mastery
+While wearing chainmail or heavier armor, you ignore the first 3 damage of every weapon attack.
+Improved Critical
+You score critical hits on rolls of 19 or 20 instead of just 20.
+When you roll a critical hit, you may reroll any damage dice that roll a 1.
+Tireless*
+You ignore the effects of the first rank of exhaustion. Additionally, it takes an additional level of exhaustion to kill you. If you take this more than once, you ignore more ranks of exhaustion.
+Mage Slayer
+You gain 20% magic resistance.
+A creature hit by you has a 20% chance to fail any spells they attempt to cast. This effect lasts for 1 minute.
+Blind Fight
+Creatures you can’t see do not gain advantage when attacking you.
+You don’t have disadvantage when attacking creatures you can’t see with melee attacks.
+If you are within 10 feet of an invisible or hidden creature, you can tell where they are.
+Whirlwind Attack
+As an action (not the attack action) attack each creature of your choice within your reach. Roll only one attack roll.
+Rogue Feats
+
+Fleet of Foot
+Your speed increases by 10ft
+In your own shadow
+You may hide in shadows in full light, but not if someone is watching you.
+Improved backstab*
+Add 1d6 to your sneak attack damage.
+Lucky Bastard
+Treat natural 1s as natural 20s.
+Improved expertise*
+Choose one of your expertise options. You have advantage when attempting that action.
+Evasion
+If you succeed on a saving throw that halves damage, you instead take no damage. If you fail that saving throw, you take half damage instead of full damage.
+Thief’s Reflexes
+You can act twice in the first round of combat.
+Deflect Arrows
+As a reaction, you can cause any one small missile (such as arrows, crossbow bolts, javelins, small rocks, but not boulders or logs) that hit you to miss instead.
+Land on your feet
+You take no damage from falling and always land on your feet, assuming you are not restrained.
+Eyes in the Dark
+You can see up to 60 feet away in the darkness.
+Wizard Feats
+
+Extra Spells (1) *
+You may cast 2 extra 1st level spells per long rest.
+Extra Spells (2) *
+You may cast 1 extra 2nd level spell per long rest.
+School Mastery
+(INSERT MORE DETAILS HERE). Doubles (?) how good your school feature is.
+Expanded spell*
+Twice per adventure, you may double a spell’s duration or range.
+Subtle Spell*
+Twice per adventure, you may cast a spell without the need for verbal or somatic components. If the spell needs material components, they just have to be on your person.
+Quicken Spell*
+Twice per adventure, you may cast a spell without using an action. Note the limit on casting spells in a turn.
+Empower Spell*
+Twice per adventure, you may add two dice of damage to a spell’s damage.
+Twinned Spell*
+Twice per adventure, you may duplicate a spell that only targets a single creature or object. The duplicate must target a new creature or object.
+Careful Spell*
+Twice per adventure, you may exclude up to 4 creatures from the area of a spell.
+Echoing Spell*
+Twice per adventure, you may cause a spell to be cast again after you cast it. The spell takes the same amount of actions as usual and you must decide this when casting the original spell.

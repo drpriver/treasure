@@ -1,0 +1,16 @@
+1;Gauntlets of Ogre Power; These gauntlets enhance the hands, arms and shoulder of the wearer and so allow the wearer to strike with the force of an ogre, dealing double damage with physical melee or thrown attacks despite their normal size. Additionally, the wearer is allower to perform feats of strength, at a DC of 15. If the wearer can already perform feats of strength, they have advantage instead. Finally, the wearer can carry 50% more item slots.
+1;Handy Haversack;This enchanted backpack lightens the load of anything put within. Any item stored within the backpack takes up only half as many item slots. An item stored in the backpack takes an action to retrieve during combat. In most other respects, it is an ordinary backpack so items such as greatswords, halberds, suits of armor, etc. cannot be stored within. The backpack can hold up to 6 adjusted slots worth of items.
+1;Bracers of Archery;These enchanted bracers allow the wearer to make called shots into melees or crowds without suffering disadvantage.
+1;Periapt of Proof against Poison;While wearing this periapt, the wearer is immune to poisons.
+1;Manual of Bodily Health;After reading this tome, the reader gains +1 constitution. The tome then disappears.
+1;Manual of Gainful Exercise;After reading this tome, the reader gains +1 strength. The tome then disappears.
+1;Manual of Quickness of Action; After reading this tome, the reader gains +1 agility. The tome then disappears.
+1;Tome of Fine Control;After reading this tome, the reader gains +1 dexterity. The tome then disappears.
+1;Tome of Clear Thought;After reading this tome, the reader gains +1 intelligence. The tome then disappears.
+1;Tome of Leadership and Influence; After reading this tome, the reader gains +1 intelligence. The tome then disppears.
+1;Girdle of Strength; The wearer of this belt's strength is set to 20 (+3 bonus). If the wearer's strength is already 20 or greater, this belt grants a +2 bonus to strength instead.
+1;Gloves of Dexterity;The wearer of these gloves' dexterity is set to 20 (+3 bonus). If the wearer's dexterity is already 20 or greater, these gloves grant a +2 bonus to dexterity instead.
+1;Monocle of Intellect;The wearer of this monocle's intelligence is set to 20 (+3 bonus). If the wearer's intelligence is already 20 or greater, these gloves grant a +2 bonus to intelligence instead.
+1;Laser Pistol;This pistol deals 3d6 radiant damage with a range of 80 feet. An energy pack supplies up to 10 shots.
+1;Energy Pack;May be used to power Sci-fi items.
+1;Laser Rifle;This rifle deals 4d6 radiant damage with a range of 300 feet. An energy pack supplies up to 5 shots.

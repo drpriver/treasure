@@ -1,0 +1,8 @@
+3;Arrows (5)
+2;Arrows (10)
+1;Arrows (20)
+2;Light Crossbow
+1;Heavy Crossbow
+2;Shortbow
+1;Longbow
+3;Javelin (5)

@@ -1,0 +1,138 @@
+1;Broken Arrow
+3;Ashes
+2;Bones
+1;Broken Bottle
+1;Corroded Chain
+1;Splintered Club
+10;Cobwebs
+1;Copper Chain
+2;Ceiling Cracks
+2;Floor Cracks
+2;Wall Cracks
+1;Dagger Hilt
+2;Damp Ceiling
+4;Damp Wall
+1;Dried Blood
+7;Dripping Blood
+3;Dung
+5;Dust
+1;Cracked Flask
+1;Food Scraps
+1;Fungi
+3;Guano
+1;Hair or Fur
+1;Cracked Hammer Head
+1;Badly Dented Helmet
+1;Bent and rusted Iron bar
+1;Blunt Javelin Head
+1;Leather Boot
+3;Leaves and Twigs
+4;Mold
+1;Pick Handle
+1; Broken Pole
+1; Pottery Shards
+2; Rags
+1;Rotten Rope
+2;Rubble and Dirt
+1;Torn Sack
+3;Slime
+1;Rusted Spike
+2;Sticks
+1;Small Stones
+1;Straw
+1;Broken Sword Blade
+1;Fangs or Teeth
+1;Torch Stub
+1;Wall Scratchings
+2;Large Puddle of water
+2;Small puddle of water
+2;Trickle of Water
+1;Wax Blob
+1;Wax drippings
+3;Rotting pieces of wood
+1;Altar
+1;Armchair
+1;Armoire
+1;Arras or curtain
+1;Bag
+1;Barrel (40 gallons)
+2;Bed
+1;Bench
+1;Blanket
+1;Box (large)
+1;Brazier and charcoal
+1;Bucket
+1;Buffet cabinet
+1;Bunks
+1;Butt (huge cask, 125 gallons)
+1;Cabinet
+1;Candelabrum 
+1;Large Carpet
+1;Cask (40 gallons)
+1;Chandelier
+1;Charcoal
+2;Plain Chair
+1;Padded Chair
+1;Padded chair or divan
+1;Large Chest
+1;Medium Chest
+1;Chest of Drawers
+1;Closet (wardrobe)
+1;Coal
+2;Couch
+1;Crate
+1;Cresset
+1;Cupboard
+1;Cushon
+1;Dais
+1;Desk
+3;Fireplace and Wood
+1;Fireplace with mantle
+1;Firkin (small cask, 10 gallons)
+10;Fountain
+1;Fresco
+1;Grindstone
+1;Hamper
+1;Hassock
+1;Hogshead (large cask, 65 gallons)
+1;Large Idol
+1;Keg (small barrel, 20 gallons)
+1;Loom
+1;Mat
+1;Mattress
+1;Pail
+3;Pallet
+1;Pedastel
+3;Pegs
+1;Pillow
+1;Pipe (large cask, 105 gallons)
+1;Quilt
+3;Rug (small or medium)
+1;Rushes
+1;Sack
+1;Sconce
+1;Screen
+1;Sheet
+2;Shelf
+1;Shrine
+1;Sideboard
+1;Sofa
+1;Normal Staff
+1;Stand
+5;Statue
+1;High Stool
+1;Normal Stool
+1;Large Table
+1;Long Table
+1;Low Table
+1;Round Table
+1;Small Table
+1;Trestle Table
+3;Tapestry
+1;Throne
+1;Tub
+1;Tun (toon) (huge cask, 250 gallons)
+1;Urn
+1;Wall basin and a font
+1;Wood billets
+1;Workbench

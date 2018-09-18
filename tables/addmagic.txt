@@ -1,0 +1,7 @@
+25; Potion
+25; Scroll
+5; Ring
+5; Wand
+5; Misc
+15; Armor
+5; Weapon

@@ -1,0 +1,251 @@
+Make Your Own:
+  weight: 14
+Pit (10 ft):
+  weight: 1
+  payload: 1d10 falling damage
+Pit (20 ft):
+  weight: 1
+  payload: 2d10 falling damage
+Pit (30 ft):
+  weight: 1
+  payload: 3d10 falling damage
+Pit (spiked, 10 ft):
+  weight: 1
+  payload: 1d10 falling damage + 1d10 piercing damage
+Pit (spiked, 20 ft):
+  weight: 1
+  payload: 2d10 falling + 2d10 piercing damage
+Pit (spiked, 5 ft):
+  weight: 1
+  payload: 1d10 piercing damage
+Pit (spiked, 30 ft):
+  weight: 1
+  payload: 3d10 falling + 3d10 piercing damage
+Magical Turret:
+  weight: 1
+  payload: 1st level spell
+Dragon Statue:
+  weight: 1
+  payload: Dragon's Breath --- 3d6 fire damage, 15ft cone
+Rolling Boulder:
+  weight: 1
+  payload: Save or Die
+Dark Mantle:
+  weight: 1
+Piercers:
+  weight: 1
+  payload: DC 13 saving throw to avoid, 2d10 damage as living stalactites fall on head
+Shriekers:
+  weight: 1
+  payload: Immediately attracts a wandering monster.
+Sulfuric Vents:
+  weight: 1
+  payload: all in area DC 14 saving throw or suffer 4d6 fire damage
+Weak Ceiling:
+  weight: 1
+  payload: Save or Die
+Weak Floor:
+  weight: 1
+  payload: fall down to next floor, suffering 1d10 damage per 10 feet
+Flamethrower:
+  weight: 1
+  payload: all in 20 ft cone suffer 2d8 fire damage, DC 12 save for half
+Lightning Ring:
+  weight: 1
+  payload: all in 20 ft radius suffer 2d8 lightning damage, DC 12 save for half
+Snake Sigil:
+  weight: 1
+  payload: sigil transforms into huge viper, immediately attacks
+Acid Arrow:
+  weight: 1
+  payload: DC 14 to avoid, suffer 2d4 acid damage now, 2d4 acid damage later
+Burning Hands:
+  weight: 1
+  payload: DC 11 save for half, 3d6 fire damage in 15ft cone
+Cone of Cold:
+  weight: 1
+  payload: DC 16 save for half, 6d8 cold damage in 60 ft cone
+Lightning Bolt:
+  weight: 1
+  payload: DC 14 save for half, 8d6 lightning damage in 10ft wide, 120 ft long line. The bolt reflects off of walls.
+Fireball:
+  weight: 1
+  payload: DC 14 save for half, 8d6 fire damage in 20 ft raidus
+Silence:
+  weight: 1
+  payload: characters are silenced for 1 hour (cannot speak or cast spells or be heard)
+Stinking Cloud:
+  weight: 1
+  payload: stinking fumes fill area, DC 13 saving throw or each round or be forced to wretch, indisposed
+Chain Lightning:
+  weight: 1
+  payload: 6d6 lightning damage, jumps to other targets, each jump removes 1d6 damage (first victim 6d6, second victim 5d6, etc.) DC 13 save for half damage
+Inflict Wounds:
+  weight: 1
+  payload: rots flesh, 3d10 necrotic damage (attack roll at +4)
+Magic Missile:
+  weight: 1
+  payload: automatically hits with 3 darts, 1d6 damage each
+Flame Strike:
+  weight: 1
+  payload: 10 ft radius pillar, 4d6 holy damage, 4d6 fire damage. No save, but those of proper religion are unharmed.
+Power Word Kill:
+  weight: 1
+  payload: target creature with 100 or fewer hit points is reduced to 0 HP
+Prismatic Spray:
+  weight: 1
+Contagion:
+  weight: 1
+Summon Monster:
+  weight: 1
+  payload: summons 1d6 random monsters of the dungeon level
+Phantasmal Killer:
+  weight: 1
+  payload: victim must DC 13 saving throw or see a figment of their worst nightmare. Each round at the beginning of their turn, they must save again or suffer 4d10 psychic damage as the figment tries to kill them. Any succesful saving throw ends the effect.
+Wall of Fire:
+  weight: 1
+  payload: 60 foot long, 20 feet high, 1 foot thick wall of fire in any shape within 120 feet. Passing through deals 5d8 fire damage. Any standing within 10 feet of the wall take 5d8 fire damage at the beginning of their turn or when they first enter the area on their turn. Damage from mere proximity allows a DC 15 saving throw for half damage. The wall of fire persists for 1 minute.
+Web:
+  weight: 1
+  payload: sticky spiderwebs that make you get caught up in them.
+Sleep:
+  weight: 1
+  payload: Roll 3d8. Creatures with that many hit points or fewer must make a saving throw or fall asleep for 1d4 sleep cycles.
+Wall of stone:
+  weight: 1
+  payload: a solid wall of stone is conjured at an incovenient location. Permanency optional.
+Slime Spray:
+  weight: 1
+  payload: slime melts your face off
+Shrapnel Spray:
+  weight: 1
+  payload: 2d10 slashing damage
+Cold Spray:
+  weight: 1
+  payload: 1d10 cold damage, save vs level of exhaustion
+Acid Spray:
+  weight: 1
+  payload: 3d10 acid damage
+Fire Spray:
+  weight: 1
+  payload: 1d8 fire damage and catch on fire, dealing 1d8 per round
+Boiling Water Spray:
+  weight: 1
+  payload: 1d12 fire damage
+Flaming Oil Spray:
+  weight: 1
+  payload: 2d6 fire damage, catch on fire, dealing 2d6 fire damage each round, Hard to put out
+Mummy Dust Spray:
+  weight: 1
+  payload: inflicts mummy rot
+Poison Spray:
+  weight: 1
+  payload: save or die
+Dust of Sneezing and Choking:
+  weight: 1
+  payload: sneeze and cough uncontrollably for 10 minutes
+Smoke Spray:
+  weight: 1
+  payload: room fills with thick smoke
+Methane Spray:
+  weight: 1
+  payload: room fills with stinky gas. Any spark will cause it explode for 3d10 fire damage
+Freezing Water Spray:
+  weight: 1
+  payload: save or suffer level of exhaustion from hypothermia
+Sand Spray:
+  weight: 1
+  payload: room starts filling with sand
+Steam Spray:
+  weight: 1
+  payload: room fills with boiling steam. all within suffer 1d10 fire damage each round and visibility drops to nothing.
+Bear:
+  weight: 1
+  payload: bear attacks
+Caltrops:
+  weight: 1
+  payload: moving through deals 1d3 damage per 5 ft and victim's speed is halved until feet are healed (lingering injury).
+Greasy Oil:
+  weight: 1
+  payload: moving through requires agility check or slip and fall. Ignitiong deals 2d6 fire damage each round for 1d4 rounds
+Cage:
+  weight: 1
+  payload: save or be trapped in the cage
+Monster released:
+  weight: 1
+  payload: dungeon level+2 monster is released and attacks
+Darkness:
+  weight: 1
+  payload: magical darkness is impossible to see through
+Slope/Slide:
+  weight: 1
+  payload: characters are dumped onto a lower dungeon floor.
+Shifting Room:
+  weight: 1
+  payload: room moves to different position on map
+Teleporter:
+  weight: 1
+  payload: teleport to a different room (50% of the time is random)
+Descending Blade:
+  weight: 1
+  payload: those who cannot get out of the way die
+Crushing Block:
+  weight: 1
+  payload: save or die
+Pendulum (ball):
+  weight: 1
+  payload: 3d12 damage, DC 16 to avoid
+Pendulum (log):
+  weight: 1
+  payload: 4d12 damage, DC 16 to avoid
+Pendulum (axe):
+  weight: 1
+  payload: 3d12 damage, DC 20 to avoid
+Pendulum (scythe):
+  weight: 1
+  payload: 4d12 damage, DC 20 to avoid
+Spear Thrust:
+  weight: 1
+  payload: atk +2, dmg 1d8
+Blade Slash:
+  weight: 1
+  payload: atk +8, dmg 2d10
+Arrow Fired:
+  weight: 1
+  payload: atk +4, dmg 1d8
+Crossbow Fired:
+  weight: 1
+  payload: atk +6, dmg 1d12
+Dart fired:
+  weight: 1
+  payload: atk +5, dmg 1d4
+Javelin Fired:
+  weight: 1
+  payload: atk +2, dmg 1d6
+Spear fired:
+  weight: 1
+  payload: atk +3, dmg 1d6
+Acid Fired:
+  weight: 1
+  payload: DC 13 save to avoid, dmg 2d6
+Burning Coals fired:
+  weight: 1
+  payload: DC 10 save for half, 2d8 fire damage
+Alarm Spell:
+  weight: 1
+  payload: silently alerts denizens of nearby rooms.
+Wyvern Watch:
+  weight: 1
+  payload: conjures 1d4 wyverns
+Glyph of Warding:
+  weight: 1
+  payload: victim(s) suffer(s) 4d6 lightning damage and are stunned for 1 hour. DC 14 save to avoid.
+Explosive Runes:
+  weight: 1
+  payload: runes explode, dealing 6d4 fire damage, DC 12 save for half. Those reading the runes receive no saving throw.
+Alarm:
+  weight: 1
+  payload: Gong, bell, or etc. rings, alerting denizens of nearby rooms.
+Fire:
+  weight: 1
+  payload: room fills with fire. play out turn-based, characters suffer 1d6 fire damage each round.
