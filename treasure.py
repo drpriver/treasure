@@ -52,7 +52,10 @@ def roll_jewels(jewel_probability, level):
     return jewels
 
 def roll_magic(magic_probability):
-    return randint(1,100) <= magic_probability
+    if randint(1,100) <= magic_probability:
+        return magic_item()
+    else:
+        return None
 
 def format_treasure_result(gold, silver, gems, jewels, magic, level):
     result = f"""
@@ -67,8 +70,8 @@ Level {level} Treasure:"""
     if jewels:
         result+='\n'+'\n'.join(f"    - {j}" for j in jewels)
     if magic:
-        result+="""
-    - A Magic Item"""
+        result+=f"""
+    - A {magic}"""
     return result
 
 class gem:
@@ -108,6 +111,16 @@ class jewel:
             self.value = randint(1,10) * 1000
     def __str__(self):
         return f"{self.value} jewelry"
+class magic_item:
+    magic_table=[   ("Potion", "Scroll", "Ring", "Wand", "Misc", "Armor", "Weapon"),
+                    ( 25,       25,       5,      5,      5,      10,      10, )   ]
+    def __init__(self):
+        self.type = choices(
+            population = self.magic_table[0],
+            weights = self.magic_table[1]
+            )[0]
+    def __str__(self):
+        return f"Magic {self.type}"
 default_treasure_table = treasure_table("odndtreasure.txt")          
 if __name__ == "__main__":
     import argparse
