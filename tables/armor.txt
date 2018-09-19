@@ -1,5 +1,0 @@
-1;Robes
-3;Leather
-2;Chainmail
-1;Breastplate
-1;Plate

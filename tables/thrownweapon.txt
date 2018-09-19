@@ -1,4 +1,0 @@
-1;Dagger
-1;Handaxe
-1;Javelin
-1;Shortspear

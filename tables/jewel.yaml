@@ -1,9 +1,0 @@
-A:
-  weight: 20
-  description: 3d6*100
-B:
-  weight: 60
-  description: 1d6*1000
-C:
-  weight: 20
-  description: 1d10*1000

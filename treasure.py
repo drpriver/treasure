@@ -1,94 +1,120 @@
-#!/usr/local/bin/python3
-import sys
-import random
-import itempick
-def d(N):
-    return random.randint(1,N)
+#!/usr/bin/env python3
+from random import randint, choices
+import csv
+from collections import namedtuple
 
-class treasure():
-    def mktreasuretable(self,treasuretable):
-        try:
-            treasure=open(treasuretable,'r')
-        except:
-            print("Treasure file is missing!!!\n", file=sys.stderr)
-            sys.exit(1)
-        table=[row.rstrip() for row in treasure]
-        labels=table.pop(0).split(',')
-        treasuretable={}
-        for row in table:
-            treasuretable[int(row.split(',')[0])]=dict(zip(labels,row.split(',')))
-        self.tt=treasuretable
-    def mksilver(self):
-        self.silver=0
-        if 1 < self.dl < 3:
-            self.silver=int(self.tt[self.dl]['Silver'])*d(12)
-        else:
-            self.silver=int(self.tt[self.dl]['Silver'])*d(6)
-    def mkgold(self):
-        self.gold=0
-        self.gold=(d(2)-1)*int(self.tt[self.dl]['Gold'])*d(6)
+treasure_row = namedtuple('treasure_row', ['Level', 'Silver','Gold','Gems','Jewels','Magic'])
 
-    g=itempick.gem_picker()
-    def mkgems(self):
-        self.gems=''
-        gprob= int(self.tt[self.dl]['Gems'])
-        diesize=6
-        if self.dl>=8:
-            diesize=12
-        self.gems=[self.g() for each in range(d(diesize)) if d(100)<=gprob]
+class treasure_table:
+    def __init__(self, treasure_file):
+        with open(treasure_file, 'r', encoding='utf-8') as tf:
+            treasure_reader = csv.reader(tf, delimiter=',')
+            labels = next(treasure_reader)
+            rows = [r for r in treasure_reader]
+        treasure = {}
+        for row in rows:
+            tr = treasure_row(*row)
+            treasure[int(tr.Level)] = tr
+        self.treasure = treasure
+    def __call__(self, dungeon_level):
+        treasure_row = self.treasure[dungeon_level]
+        gold = roll_gold(int(treasure_row.Gold))
+        silver = roll_silver(int(treasure_row.Silver), dungeon_level)
+        gems = roll_gems(int(treasure_row.Gems), dungeon_level)
+        jewels = roll_jewels(int(treasure_row.Jewels), dungeon_level)
+        magic = roll_magic(int(treasure_row.Magic))
+        return gold, silver, gems, jewels, magic, dungeon_level
 
-    j=itempick.jewel_picker()
-    def mkjewels(self):
-        self.jewels=''
-        jprob=int(self.tt[self.dl]['Jewels'])
-        diesize=6
-        if self.dl >= 8:
-            diesize=12
-        self.jewels=[self.j() for each in range(d(diesize)) if d(100) <=jprob]
+def roll_gold(Gold_constant):
+    gold = randint(0,1) * Gold_constant * randint(1,6)
+    return gold
 
-    m=itempick.magic()
-    def mkmagic(self):
-        self.magic=''
-        mprob=int(self.tt[self.dl]['Jewels'])
-        self.magic=[self.m() for each in range(1) if d(100) <= mprob]
+def roll_silver(Silver_constant, level):
+    if level < 3:
+        silver = Silver_constant * randint(1,12)
+    else:
+        silver = Silver_constant * randint(1,6)
+    return silver
+
+def roll_gems(gem_probability, level):
+    if level > 7:
+        gem_chances = 12
+    else:
+        gem_chances = 6
+    gems = [ gem() for _ in range(gem_chances) if randint(1,100) <= gem_probability ]
+    return gems
+def roll_jewels(jewel_probability, level):
+    if level > 7:
+        jewel_chances = 12
+    else:
+        jewel_chances = 6
+    jewels = [ jewel() for _ in range(jewel_chances) if randint(1,100) <= jewel_probability ]
+    return jewels
+
+def roll_magic(magic_probability):
+    return randint(1,100) <= magic_probability
+
+def format_treasure_result(gold, silver, gems, jewels, magic, level):
+    result = f"""
+Level {level} Treasure:"""
+    if gold:
+        result+=f"""
+    - {gold}gp"""
+    result += f"""
+    - {silver}sp"""
+    if gems:
+        result+='\n'+'\n'.join(f"    - {g}" for g in gems)
+    if jewels:
+        result+='\n'+'\n'.join(f"    - {j}" for j in jewels)
+    if magic:
+        result+="""
+    - A Magic Item"""
+    return result
+
+class gem:
+    gem_chances = [ (10, 50, 100, 500, 100),
+                    (10, 15, 50,  15,  10 ) ]
+    upgrade_map = {     10 :      50,
+                        50 :     100,
+                       100 :     500,
+                       500 :   1_000,
+                     1_000 :   5_000,
+                     5_000 :  10_000,
+                    10_000 :  25_000,
+                    25_000 :  50_000,
+                    50_000 : 100_000,
+                   100_000 : 500_000  }
+    
+    def __init__(self):
+        self.value = choices(
+            population = self.gem_chances[0], 
+            weights = self.gem_chances[1]
+            )[0]
+        self.upgrade()
+    def upgrade(self):
+        if randint(1, 6) == 1:
+            self.value = self.upgrade_map[self.value]
+            self.upgrade()
     def __str__(self):
-        retrnstr='Treasure:\n'
-        indent='\t'+'- '
-        if self.silver:
-            retrnstr+=indent+str(self.silver)+'sp\n'
-        if self.gold:
-            retrnstr+=indent+str(self.gold)+'gp\n'
-        if self.gems:
-            for gem in self.gems:
-                retrnstr+=indent+str(gem)+'\n'
-        if self.jewels:
-            for jewel in self.jewels:
-                retrnstr+=indent+str(jewel)+'\n'
-        if self.magic:
-            for magic in self.magic:
-                retrnstr+=indent+str(magic)+'\n'
-        return retrnstr
-    def __call__(self,dl=1):
-        self.dl=dl
-        self.mksilver()
-        self.mkgold()
-        self.mkgems()
-        self.mkjewels()
-        self.mkmagic()
-        return str(self)
-    def __init__(self, treasuretable='./tables/odndtreasure.txt', dl=1):
-        self.mktreasuretable(treasuretable)
-        self(dl)
-t=treasure()
-dungeonlevel=1
-loops=range(1)
+        return f"A {self.value}gp gem"
+class jewel:
+    def __init__(self):
+        roll = randint(1,100)
+        if roll <= 20:
+            self.value = (randint(1,6) + randint(1,6) + randint(1,6)) * 100
+        elif roll <= 80:
+            self.value = randint(1,6) * 1000
+        else:
+            self.value = randint(1,10) * 1000
+    def __str__(self):
+        return f"{self.value} jewelry"
+default_treasure_table = treasure_table("odndtreasure.txt")          
 if __name__ == "__main__":
-    try: dungeonlevel=int(sys.argv[1])
-    except: pass
-    try: loops=range(int(sys.argv[2]))
-    except: pass
-    if dungeonlevel > 10:
-        dungeonlevel=10
-    for x in loops:
-        print(f"Level {dungeonlevel} treasure")
-        print(t(dungeonlevel))
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-level", "-l", type = int, default = 1)
+    parser.add_argument("-count", "-c", type = int, default = 1)
+    args = parser.parse_args()
+    for _ in range(args.count):
+        treasure_result = default_treasure_table(args.level)
+        print(format_treasure_result(*treasure_result))

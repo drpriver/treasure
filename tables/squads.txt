@@ -1,8 +1,0 @@
-Peasants      , 2 , ---    ,   0 , 100 , ---
-Light Footmen , 4 , ---    , 250 , 150 , Barracks
-Medium Footmen, 5 , ---    , 350 , 170 , Weaponer & Barracks
-Heavy Footmen , 6 , ---    , 500 , 200 , Weaponer & Armorer & Barracks
-Archers       , 5 ,Missiles, 200 , 140 , Archery Range
-Crossbowmen   , 6 ,Missiles, 300 , 160 , Weaponer & Archery Range
-Light Cavalry , 6 ,Mounted , 700 , 240 , Stables & Barracks & Weaponer
-Knight        , 8 ,Mounted ,1000 , 300 , Stables & Barracks& Weaponer& Armorer
