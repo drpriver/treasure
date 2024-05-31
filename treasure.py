@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
+from __future__ import annotations
 import argparse
 import csv
+import os
 from random import randint, choices
-from typing import NamedTuple, Sequence, Optional, List, Dict
+from typing import NamedTuple, Sequence
 from io import StringIO
 
 class TreasureRow(NamedTuple):
@@ -15,7 +17,7 @@ class TreasureRow(NamedTuple):
 
 class TreasureTable:
     @classmethod
-    def from_csv(cls, treasure_file:str) -> 'TreasureTable':
+    def from_csv(cls, treasure_file:str) -> TreasureTable:
         with open(treasure_file, 'r', encoding='utf-8') as tf:
             treasure_reader = csv.reader(tf, delimiter=',')
             labels = next(treasure_reader)
@@ -26,10 +28,10 @@ class TreasureTable:
             treasure[int(tr.level)] = tr
         return cls(treasure)
 
-    def __init__(self, treasure:Dict[int, TreasureRow]) -> None:
+    def __init__(self, treasure:dict[int, TreasureRow]) -> None:
         self.treasure = treasure
 
-    def roll(self, dungeon_level:int) -> 'TreasureResult':
+    def roll(self, dungeon_level:int) -> TreasureResult:
         treasure_row = self.treasure[dungeon_level]
         gold = roll_gold(treasure_row.gold)
         silver = roll_silver(treasure_row.silver, dungeon_level)
@@ -60,11 +62,10 @@ class Gem:
         self._upgrade()
 
     def _upgrade(self) -> None:
-        if randint(1, 6) == 1:
+        while randint(1, 6) == 1:
             self.value = self.upgrade_map[self.value]
-            self._upgrade()
 
-    def __str__(self):
+    def __str__(self) -> str:
         return f'A {self.value}gp gem'
 
 class Jewel:
@@ -97,8 +98,9 @@ class TreasureResult(NamedTuple):
     silver: int
     gems: Sequence[Gem]
     jewels: Sequence[Jewel]
-    magic: Optional[MagicItem]
+    magic: MagicItem | None
     level: int
+
     def format_result(self) -> str:
         buff = StringIO()
         buff.write(f'Level {self.level} Treasure:\n')
@@ -129,14 +131,14 @@ def roll_gold(gold_constant:int) -> int:
     gold = randint(0, 1) * gold_constant * randint(1, 6)
     return gold
 
-def roll_silver(silver_constant:int, level:int)-> int:
+def roll_silver(silver_constant:int, level:int) -> int:
     if level < 3:
         silver = silver_constant * randint(1, 12)
     else:
         silver = silver_constant * randint(1, 6)
     return silver
 
-def roll_gems(gem_probability:int, level:int):
+def roll_gems(gem_probability:int, level:int) -> list[Gem]:
     if level > 7:
         gem_chances = 12
     else:
@@ -144,7 +146,7 @@ def roll_gems(gem_probability:int, level:int):
     gems = [ Gem() for _ in range(gem_chances) if randint(1, 100) <= gem_probability ]
     return gems
 
-def roll_jewels(jewel_probability:int, level:int) -> List[Jewel]:
+def roll_jewels(jewel_probability:int, level:int) -> list[Jewel]:
     if level > 7:
         jewel_chances = 12
     else:
@@ -152,24 +154,24 @@ def roll_jewels(jewel_probability:int, level:int) -> List[Jewel]:
     jewels = [ Jewel() for _ in range(jewel_chances) if randint(1, 100) <= jewel_probability ]
     return jewels
 
-def roll_magic(magic_probability:int) -> Optional[MagicItem]:
+def roll_magic(magic_probability:int) -> MagicItem | None:
     if randint(1, 100) <= magic_probability:
         return MagicItem()
     else:
         return None
 
-default_treasure_table = TreasureTable.from_csv('odndtreasure.csv')          
-
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument('--level', '-l', type=int, default=1)
     parser.add_argument('--count', '-c', type=int, default=1)
+    parser.add_argument('-t', '--table', default=os.path.join(os.path.dirname(__file__), 'odndtreasure.csv'))
     args = parser.parse_args()
     run(**vars(args))
 
-def run(level:int, count:int) -> None:
+def run(level:int, count:int, table:str) -> None:
+    treasure_table = TreasureTable.from_csv(table)
     for _ in range(count):
-        treasure_result = default_treasure_table.roll(level)
+        treasure_result = treasure_table.roll(level)
         print(treasure_result.format_result(), end='')
 
 if __name__ == '__main__':
